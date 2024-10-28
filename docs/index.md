@@ -1,9 +1,14 @@
 ---
 layout: default
 ---
-## Updated on 2024.10.28
 
-## Multimodal Jailbreak
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+
+## Updated on 2024.10.28
+> Usage instructions: [here](./docs/README.md#usage)
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
