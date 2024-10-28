@@ -22,5 +22,5 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "multimodal jailbreak": 
-        filters: ["multimodal", "jailbreak"]
+    "Multimodal Jailbreak": 
+        filters: ["Multimodal", "Jailbreak"]
