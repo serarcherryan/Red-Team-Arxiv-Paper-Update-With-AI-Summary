@@ -14,5 +14,6 @@
     <li><a href=#keypoint-detection>Keypoint Detection</a></li>
     <li><a href=#image-matching>Image Matching</a></li>
     <li><a href=#nerf>NeRF</a></li>
+    <li><a href=#multimodal-jailbreak>multimodal jailbreak</a></li>
   </ol>
 </details>
