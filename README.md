@@ -9,11 +9,11 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href=#multimodal-jailbreak>multimodal jailbreak</a></li>
+    <li><a href=#Multimodal-Jailbreak>Multimodal Jailbreak</a></li>
   </ol>
 </details>
 
-## multimodal jailbreak
+## Multimodal Jailbreak
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
