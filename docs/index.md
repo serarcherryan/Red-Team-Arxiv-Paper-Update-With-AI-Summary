@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.27
+## Updated on 2024.11.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multimodal Jailbreak
@@ -21,7 +21,7 @@ layout: default
 |**2024-10-31**|**Audio Is the Achilles' Heel: Red Teaming Audio Large Multimodal Models**|Hao Yang et.al.|[2410.23861](http://arxiv.org/abs/2410.23861)|null|
 |**2024-10-28**|**BlueSuffix: Reinforced Blue Teaming for Vision-Language Models Against Jailbreak Attacks**|Yunhan Zhao et.al.|[2410.20971](http://arxiv.org/abs/2410.20971)|null|
 |**2024-10-20**|**Jailbreaking and Mitigation of Vulnerabilities in Large Language Models**|Benji Peng et.al.|[2410.15236](http://arxiv.org/abs/2410.15236)|null|
-|**2024-10-18**|**BlackDAN: A Black-Box Multi-Objective Approach for Effective and Contextual Jailbreaking of Large Language Models**|Xinyuan Wang et.al.|[2410.09804](http://arxiv.org/abs/2410.09804)|null|
+|**2024-11-27**|**BlackDAN: A Black-Box Multi-Objective Approach for Effective and Contextual Jailbreaking of Large Language Models**|Xinyuan Wang et.al.|[2410.09804](http://arxiv.org/abs/2410.09804)|null|
 |**2024-10-23**|**Gradient-based Jailbreak Images for Multimodal Fusion Models**|Javier Rando et.al.|[2410.03489](http://arxiv.org/abs/2410.03489)|**[link](https://github.com/facebookresearch/multimodal-fusion-jailbreaks)**|
 |**2024-10-01**|**PyRIT: A Framework for Security Risk Identification and Red Teaming in Generative AI System**|Gary D. Lopez Munoz et.al.|[2410.02828](http://arxiv.org/abs/2410.02828)|**[link](https://github.com/azure/pyrit)**|
 |**2024-09-27**|**Multimodal Pragmatic Jailbreak on Text-to-image Models**|Tong Liu et.al.|[2409.19149](http://arxiv.org/abs/2409.19149)|null|
