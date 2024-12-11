@@ -51,6 +51,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**TraSCE: Trajectory Steering for Concept Erasure**|Anubhav Jain et.al.|[2412.07658](http://arxiv.org/abs/2412.07658)|null|
+|**2024-11-03**|**Poison Attacks and Adversarial Prompts Against an Informed University Virtual Assistant**|Ivan A. Fernandez et.al.|[2412.06788](http://arxiv.org/abs/2412.06788)|null|
 |**2024-12-07**|**PrivAgent: Agentic-based Red-teaming for LLM Privacy Leakage**|Yuzhou Nie et.al.|[2412.05734](http://arxiv.org/abs/2412.05734)|**[link](https://github.com/rucnyz/redagent)**|
 |**2024-11-27**|**Embodied Red Teaming for Auditing Robotic Foundation Models**|Sathwik Karnik et.al.|[2411.18676](http://arxiv.org/abs/2411.18676)|null|
 |**2024-11-26**|**Adaptive Deployment of Untrusted LLMs Reduces Distributed Threats**|Jiaxin Wen et.al.|[2411.17693](http://arxiv.org/abs/2411.17693)|null|
