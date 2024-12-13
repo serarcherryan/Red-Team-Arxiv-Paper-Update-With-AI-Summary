@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.12
+## Updated on 2024.12.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -37,7 +37,7 @@
 |**2024-10-17**|**Cross-modality Information Check for Detecting Jailbreaking in Multimodal Large Language Models**|Yue Xu et.al.|[2407.21659](http://arxiv.org/abs/2407.21659)|**[link](https://github.com/pandragonxiii/cider)**|
 |**2024-08-23**|**Can Large Language Models Automatically Jailbreak GPT-4V?**|Yuanwei Wu et.al.|[2407.16686](http://arxiv.org/abs/2407.16686)|null|
 
-<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
 
 ## Red Team
 
@@ -54,7 +54,7 @@
 |**2024-11-26**|**Desert Camels and Oil Sheikhs: Arab-Centric Red Teaming of Frontier LLMs**|Muhammed Saeed et.al.|[2410.24049](http://arxiv.org/abs/2410.24049)|null|
 |**2024-10-31**|**Audio Is the Achilles' Heel: Red Teaming Audio Large Multimodal Models**|Hao Yang et.al.|[2410.23861](http://arxiv.org/abs/2410.23861)|null|
 
-<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
 
 ## Red Teaming
 
@@ -74,7 +74,7 @@
 |**2024-11-26**|**Desert Camels and Oil Sheikhs: Arab-Centric Red Teaming of Frontier LLMs**|Muhammed Saeed et.al.|[2410.24049](http://arxiv.org/abs/2410.24049)|null|
 |**2024-10-31**|**Audio Is the Achilles' Heel: Red Teaming Audio Large Multimodal Models**|Hao Yang et.al.|[2410.23861](http://arxiv.org/abs/2410.23861)|null|
 
-<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
