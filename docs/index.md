@@ -14,16 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-15**|**SpearBot: Leveraging Large Language Models in a Generative-Critique Framework for Spear-Phishing Email Generation**|Qinglin Qi et.al.|[2412.11109](http://arxiv.org/abs/2412.11109)|null|
+|**2024-12-15**|**Separate the Wheat from the Chaff: A Post-Hoc Approach to Safety Re-Alignment for Fine-Tuned Language Models**|Di Wu et.al.|[2412.11041](http://arxiv.org/abs/2412.11041)|null|
 |**2024-12-14**|**IntelEX: A LLM-driven Attack-level Threat Intelligence Extraction Framework**|Ming Xu et.al.|[2412.10872](http://arxiv.org/abs/2412.10872)|null|
-|**2024-12-10**|**Look Before You Leap: Enhancing Attention and Vigilance Regarding Harmful Content with GuidelineLLM**|Shaoqing Zhang et.al.|[2412.10423](http://arxiv.org/abs/2412.10423)|null|
+|**2024-12-14**|**Towards Action Hijacking of Large Language Model-based Agent**|Yuyang Zhang et.al.|[2412.10807](http://arxiv.org/abs/2412.10807)|null|
+|**2024-12-13**|**AdvPrefix: An Objective for Nuanced LLM Jailbreaks**|Sicheng Zhu et.al.|[2412.10321](http://arxiv.org/abs/2412.10321)|null|
 |**2024-12-12**|**AI Red-Teaming is a Sociotechnical System. Now What?**|Tarleton Gillespie et.al.|[2412.09751](http://arxiv.org/abs/2412.09751)|null|
-|**2024-12-10**|**TraSCE: Trajectory Steering for Concept Erasure**|Anubhav Jain et.al.|[2412.07658](http://arxiv.org/abs/2412.07658)|null|
-|**2024-12-07**|**PrivAgent: Agentic-based Red-teaming for LLM Privacy Leakage**|Yuzhou Nie et.al.|[2412.05734](http://arxiv.org/abs/2412.05734)|**[link](https://github.com/rucnyz/redagent)**|
-|**2024-11-27**|**Embodied Red Teaming for Auditing Robotic Foundation Models**|Sathwik Karnik et.al.|[2411.18676](http://arxiv.org/abs/2411.18676)|null|
-|**2024-11-26**|**Adaptive Deployment of Untrusted LLMs Reduces Distributed Threats**|Jiaxin Wen et.al.|[2411.17693](http://arxiv.org/abs/2411.17693)|null|
-|**2024-11-25**|**In-Context Experience Replay Facilitates Safety Red-Teaming of Text-to-Image Diffusion Models**|Zhi-Yi Chin et.al.|[2411.16769](http://arxiv.org/abs/2411.16769)|null|
-|**2024-11-21**|**GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs**|Advik Raj Basani et.al.|[2411.14133](http://arxiv.org/abs/2411.14133)|**[link](https://github.com/llm-gasp/gasp)**|
-|**2024-11-13**|**LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs**|Piyush Jha et.al.|[2411.08862](http://arxiv.org/abs/2411.08862)|null|
+|**2024-12-12**|**Obfuscated Activations Bypass LLM Latent-Space Defenses**|Luke Bailey et.al.|[2412.09565](http://arxiv.org/abs/2412.09565)|null|
+|**2024-12-16**|**Exploiting the Index Gradients for Optimization-Based Jailbreaking on Large Language Models**|Jiahui Li et.al.|[2412.08615](http://arxiv.org/abs/2412.08615)|**[link](https://github.com/jiah-li/magic)**|
+|**2024-12-11**|**AdvWave: Stealthy Adversarial Jailbreak Attack against Large Audio-Language Models**|Mintong Kang et.al.|[2412.08608](http://arxiv.org/abs/2412.08608)|null|
+|**2024-12-11**|**Model-Editing-Based Jailbreak against Safety-aligned Large Language Models**|Yuxi Li et.al.|[2412.08201](http://arxiv.org/abs/2412.08201)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
