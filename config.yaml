@@ -20,15 +20,6 @@ md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
 md_wechat_path: './docs/wechat.md'
 
-# keywords to search
-keywords:
-    "Jailbreak": 
-        filters: ["Jailbreak"]
-# keywords to search
-keywords:
-    "Multimodal Jailbreak": 
-        filters: ["Multimodal", "Jailbreak"]
-# keywords to search
 keywords:
     "Red Teaming": 
-        filters: ["Red", "Teaming"]
+        filters: ["Red Teaming", "Jailbreak"]
