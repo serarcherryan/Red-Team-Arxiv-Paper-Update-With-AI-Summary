@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**Evaluation of LLM Vulnerabilities to Being Misused for Personalized Disinformation Generation**|Aneta Zugecova et.al.|[2412.13666](http://arxiv.org/abs/2412.13666)|null|
+|**2024-12-17**|**Concept-ROT: Poisoning Concepts in Large Language Models with Model Editing**|Keltin Grimes et.al.|[2412.13341](http://arxiv.org/abs/2412.13341)|**[link](https://github.com/keltin13/concept-rot)**|
 |**2024-12-17**|**Jailbreaking? One Step Is Enough!**|Weixiong Zheng et.al.|[2412.12621](http://arxiv.org/abs/2412.12621)|null|
 |**2024-12-17**|**Subversion Strategy Eval: Evaluating AI's stateless strategic capabilities against control protocols**|Alex Mallen et.al.|[2412.12480](http://arxiv.org/abs/2412.12480)|null|
 |**2024-12-13**|**No Free Lunch for Defending Against Prefilling Attack by In-Context Learning**|Zhiyu Xue et.al.|[2412.12192](http://arxiv.org/abs/2412.12192)|null|
