@@ -22,4 +22,4 @@ md_wechat_path: './docs/wechat.md'
 
 keywords:
     "Red Teaming": 
-        filters: ["Red Teaming", "Jailbreak"]
+        filters: ["red team", "red teaming", "jailbreak"]
