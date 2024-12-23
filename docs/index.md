@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.22
+## Updated on 2024.12.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Red Teaming
@@ -44,7 +44,7 @@ layout: default
 |**2024-12-07**|**PrivAgent: Agentic-based Red-teaming for LLM Privacy Leakage**|Yuzhou Nie et.al.|[2412.05734](http://arxiv.org/abs/2412.05734)|**[link](https://github.com/rucnyz/redagent)**|
 |**2024-12-06**|**BadGPT-4o: stripping safety finetuning from GPT models**|Ekaterina Krupkina et.al.|[2412.05346](http://arxiv.org/abs/2412.05346)|null|
 |**2024-12-06**|**LIAR: Leveraging Alignment (Best-of-N) to Jailbreak LLMs in Seconds**|James Beetham et.al.|[2412.05232](http://arxiv.org/abs/2412.05232)|null|
-|**2024-12-04**|**Best-of-N Jailbreaking**|John Hughes et.al.|[2412.03556](http://arxiv.org/abs/2412.03556)|**[link](https://github.com/jplhughes/bon-jailbreaking)**|
+|**2024-12-19**|**Best-of-N Jailbreaking**|John Hughes et.al.|[2412.03556](http://arxiv.org/abs/2412.03556)|**[link](https://github.com/jplhughes/bon-jailbreaking)**|
 |**2024-12-04**|**Does Safety Training of LLMs Generalize to Semantically Related Natural Prompts?**|Sravanti Addepalli et.al.|[2412.03235](http://arxiv.org/abs/2412.03235)|null|
 |**2024-12-03**|**Jailbreak Defense in a Narrow Domain: Limitations of Existing Methods and a New Transcript-Classifier Approach**|Tony T. Wang et.al.|[2412.02159](http://arxiv.org/abs/2412.02159)|null|
 |**2024-12-03**|**Trust & Safety of LLMs and LLMs in Trust & Safety**|Doohee You et.al.|[2412.02113](http://arxiv.org/abs/2412.02113)|null|
@@ -349,7 +349,7 @@ layout: default
 |**2024-05-31**|**Robustifying Safety-Aligned Large Language Models through Clean Data Curation**|Xiaoqun Liu et.al.|[2405.19358](http://arxiv.org/abs/2405.19358)|null|
 |**2024-05-29**|**ConceptPrune: Concept Editing in Diffusion Models via Skilled Neuron Pruning**|Ruchika Chavhan et.al.|[2405.19237](http://arxiv.org/abs/2405.19237)|**[link](https://github.com/ruchikachavhan/concept-prune)**|
 |**2024-05-29**|**Voice Jailbreak Attacks Against GPT-4o**|Xinyue Shen et.al.|[2405.19103](http://arxiv.org/abs/2405.19103)|**[link](https://github.com/TrustAIRLab/VoiceJailbreakAttack)**|
-|**2024-05-29**|**DiveR-CT: Diversity-enhanced Red Teaming with Relaxing Constraints**|Andrew Zhao et.al.|[2405.19026](http://arxiv.org/abs/2405.19026)|**[link](https://github.com/LeapLabTHU/diver-ct)**|
+|**2024-12-20**|**DiveR-CT: Diversity-enhanced Red Teaming Large Language Model Assistants with Relaxing Constraints**|Andrew Zhao et.al.|[2405.19026](http://arxiv.org/abs/2405.19026)|**[link](https://github.com/LeapLabTHU/diver-ct)**|
 |**2024-10-20**|**Quantitative Certification of Bias in Large Language Models**|Isha Chaudhary et.al.|[2405.18780](http://arxiv.org/abs/2405.18780)|**[link](https://github.com/uiuc-focal-lab/quacer-b)**|
 |**2024-11-18**|**A Theoretical Understanding of Self-Correction through In-context Alignment**|Yifei Wang et.al.|[2405.18634](http://arxiv.org/abs/2405.18634)|null|
 |**2024-05-28**|**Learning diverse attacks on large language models for robust red-teaming and safety tuning**|Seanie Lee et.al.|[2405.18540](http://arxiv.org/abs/2405.18540)|null|
