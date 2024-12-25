@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.24
+## Updated on 2024.12.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -248,7 +248,7 @@
 |**2024-10-17**|**Cross-modality Information Check for Detecting Jailbreaking in Multimodal Large Language Models**|Yue Xu et.al.|[2407.21659](http://arxiv.org/abs/2407.21659)|**[link](https://github.com/pandragonxiii/cider)**|
 |**2024-07-17**|**Direct Unlearning Optimization for Robust and Safe Text-to-Image Models**|Yong-Hyun Park et.al.|[2407.21035](http://arxiv.org/abs/2407.21035)|null|
 |**2024-10-24**|**Effects of Scale on Language Model Robustness**|Nikolaus Howe et.al.|[2407.18213](http://arxiv.org/abs/2407.18213)|null|
-|**2024-08-29**|**The Dark Side of Function Calling: Pathways to Jailbreaking Large Language Models**|Zihui Wu et.al.|[2407.17915](http://arxiv.org/abs/2407.17915)|**[link](https://github.com/wooozihui/jailbreakfunction)**|
+|**2024-12-24**|**The Dark Side of Function Calling: Pathways to Jailbreaking Large Language Models**|Zihui Wu et.al.|[2407.17915](http://arxiv.org/abs/2407.17915)|**[link](https://github.com/wooozihui/jailbreakfunction)**|
 |**2024-10-01**|**FLRT: Fluent Student-Teacher Redteaming**|T. Ben Thompson et.al.|[2407.17447](http://arxiv.org/abs/2407.17447)|**[link](https://github.com/Confirm-Solutions/flrt)**|
 |**2024-10-07**|**Revisiting Who's Harry Potter: Towards Targeted Unlearning from a Causal Intervention Perspective**|Yujian Liu et.al.|[2407.16997](http://arxiv.org/abs/2407.16997)|**[link](https://github.com/ucsb-nlp-chang/causal_unlearn)**|
 |**2024-07-24**|**From Sands to Mansions: Enabling Automatic Full-Life-Cycle Cyberattack Construction with LLM**|Lingzhi Wang et.al.|[2407.16928](http://arxiv.org/abs/2407.16928)|null|
@@ -516,7 +516,7 @@
 |**2024-05-16**|**Sowing the Wind, Reaping the Whirlwind: The Impact of Editing Language Models**|Rima Hazra et.al.|[2401.10647](http://arxiv.org/abs/2401.10647)|**[link](https://huggingface.co/datasets/SoftMINER-Group/NicheHazardQA)**|
 |**2024-02-12**|**All in How You Ask for It: Simple Black-Box Method for Jailbreak Attacks**|Kazuhiro Takemoto et.al.|[2401.09798](http://arxiv.org/abs/2401.09798)|**[link](https://github.com/kztakemoto/simbaja)**|
 |**2024-08-03**|**AttackEval: How to Evaluate the Effectiveness of Jailbreak Attacking on Large Language Models**|Dong shu et.al.|[2401.09002](http://arxiv.org/abs/2401.09002)|null|
-|**2024-08-06**|**Rethinking Jailbreaking through the Lens of Representation Engineering**|Tianlong Li et.al.|[2401.06824](http://arxiv.org/abs/2401.06824)|null|
+|**2024-12-24**|**Revisiting Jailbreaking for Large Language Models: A Representation Engineering Perspective**|Tianlong Li et.al.|[2401.06824](http://arxiv.org/abs/2401.06824)|null|
 |**2024-12-16**|**Intention Analysis Makes LLMs A Good Jailbreak Defender**|Yuqi Zhang et.al.|[2401.06561](http://arxiv.org/abs/2401.06561)|**[link](https://github.com/alphadl/safellm_with_intentionanalysis)**|
 |**2024-01-23**|**How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs**|Yi Zeng et.al.|[2401.06373](http://arxiv.org/abs/2401.06373)|**[link](https://github.com/chats-lab/persuasive_jailbreaker)**|
 |**2024-01-11**|**Combating Adversarial Attacks with Multi-Agent Debate**|Steffi Chern et.al.|[2401.05998](http://arxiv.org/abs/2401.05998)|**[link](https://github.com/andyjliu/llms-course-project)**|
@@ -677,7 +677,7 @@
 |**2017-12-02**|**Recurrent Neural Network Language Models for Open Vocabulary Event-Level Cyber Anomaly Detection**|Aaron Tuor et.al.|[1712.00557](http://arxiv.org/abs/1712.00557)|**[link](https://github.com/pnnl/safekit)**|
 |**2015-04-07**|**Security Toolbox for Detecting Novel and Sophisticated Android Malware**|Benjamin Holland et.al.|[1504.01693](http://arxiv.org/abs/1504.01693)|null|
 
-<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
