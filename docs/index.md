@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**Token Highlighter: Inspecting and Mitigating Jailbreak Prompts for Large Language Models**|Xiaomeng Hu et.al.|[2412.18171](http://arxiv.org/abs/2412.18171)|null|
 |**2024-12-23**|**Retention Score: Quantifying Jailbreak Risks for Vision Language Models**|Zaitang Li et.al.|[2412.17544](http://arxiv.org/abs/2412.17544)|null|
 |**2024-12-23**|**DiffusionAttacker: Diffusion-Driven Prompt Manipulation for LLM Jailbreak**|Hao Wang et.al.|[2412.17522](http://arxiv.org/abs/2412.17522)|null|
 |**2024-12-22**|**Shaping the Safety Boundaries: Understanding and Defending Against Jailbreaks in Large Language Models**|Lang Gao et.al.|[2412.17034](http://arxiv.org/abs/2412.17034)|null|
@@ -218,7 +219,7 @@ layout: default
 |**2024-08-21**|**EEG-Defender: Defending against Jailbreak through Early Exit Generation of Large Language Models**|Chongwen Zhao et.al.|[2408.11308](http://arxiv.org/abs/2408.11308)|null|
 |**2024-08-20**|**Hide Your Malicious Goal Into Benign Narratives: Jailbreak Large Language Models through Neural Carrier Articles**|Zhilong Wang et.al.|[2408.11182](http://arxiv.org/abs/2408.11182)|null|
 |**2024-08-18**|**DiffZOO: A Purely Query-Based Black-Box Attack for Red-teaming Text-to-Image Generative Model via Zeroth Order Optimization**|Pucheng Dang et.al.|[2408.11071](http://arxiv.org/abs/2408.11071)|null|
-|**2024-09-16**|**Security Attacks on LLM-based Code Completion Tools**|Wen Cheng et.al.|[2408.11006](http://arxiv.org/abs/2408.11006)|**[link](https://github.com/sensente/security-attacks-on-lccts)**|
+|**2024-12-24**|**Security Attacks on LLM-based Code Completion Tools**|Wen Cheng et.al.|[2408.11006](http://arxiv.org/abs/2408.11006)|**[link](https://github.com/sensente/security-attacks-on-lccts)**|
 |**2024-08-26**|**Perception-guided Jailbreak against Text-to-Image Models**|Yihao Huang et.al.|[2408.10848](http://arxiv.org/abs/2408.10848)|null|
 |**2024-08-20**|**Ferret: Faster and Effective Automated Red Teaming with Reward-Based Scoring Technique**|Tej Deep Pala et.al.|[2408.10701](http://arxiv.org/abs/2408.10701)|**[link](https://github.com/declare-lab/ferret)**|
 |**2024-08-20**|**Towards Robust Knowledge Unlearning: An Adversarial Framework for Assessing and Improving Unlearning Robustness in Large Language Models**|Hongbang Yuan et.al.|[2408.10682](http://arxiv.org/abs/2408.10682)|null|
@@ -299,7 +300,7 @@ layout: default
 |**2024-06-26**|**WildTeaming at Scale: From In-the-Wild Jailbreaks to (Adversarially) Safer Language Models**|Liwei Jiang et.al.|[2406.18510](http://arxiv.org/abs/2406.18510)|**[link](https://github.com/allenai/wildteaming)**|
 |**2024-12-09**|**WildGuard: Open One-Stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs**|Seungju Han et.al.|[2406.18495](http://arxiv.org/abs/2406.18495)|**[link](https://github.com/allenai/wildguard)**|
 |**2024-06-26**|**Poisoned LangChain: Jailbreak LLMs by LangChain**|Ziqiu Wang et.al.|[2406.18122](http://arxiv.org/abs/2406.18122)|null|
-|**2024-12-19**|**SafeAligner: Safety Alignment against Jailbreak Attacks via Response Disparity Guidance**|Caishuang Huang et.al.|[2406.18118](http://arxiv.org/abs/2406.18118)|**[link](https://github.com/csHuangfdu/SafeAligner)**|
+|**2024-12-24**|**SafeAligner: Safety Alignment against Jailbreak Attacks via Response Disparity Guidance**|Caishuang Huang et.al.|[2406.18118](http://arxiv.org/abs/2406.18118)|**[link](https://github.com/csHuangfdu/SafeAligner)**|
 |**2024-06-25**|**CoSafe: Evaluating Large Language Model Safety in Multi-Turn Dialogue Coreference**|Erxin Yu et.al.|[2406.17626](http://arxiv.org/abs/2406.17626)|**[link](https://github.com/ErxinYu/CoSafe-Dataset)**|
 |**2024-06-25**|**Leveraging Reinforcement Learning in Red Teaming for Advanced Ransomware Attack Simulations**|Cheng Wang et.al.|[2406.17576](http://arxiv.org/abs/2406.17576)|null|
 |**2024-06-21**|**Steering Without Side Effects: Improving Post-Deployment Control of Language Models**|Asa Cooper Stickland et.al.|[2406.15518](http://arxiv.org/abs/2406.15518)|**[link](https://github.com/asacooperstickland/kl-then-steer)**|
