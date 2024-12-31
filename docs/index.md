@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.30
+## Updated on 2024.12.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Red Teaming
@@ -238,7 +238,7 @@ layout: default
 |**2024-08-08**|**Multi-Turn Context Jailbreak Attack on Large Language Models From First Principles**|Xiongtao Sun et.al.|[2408.04686](http://arxiv.org/abs/2408.04686)|null|
 |**2024-08-08**|**Compromesso! Italian Many-Shot Jailbreaks Undermine the Safety of Large Language Models**|Fabio Pernisi et.al.|[2408.04522](http://arxiv.org/abs/2408.04522)|null|
 |**2024-08-07**|**EnJa: Ensemble Jailbreak on Large Language Models**|Jiahao Zhang et.al.|[2408.03603](http://arxiv.org/abs/2408.03603)|null|
-|**2024-10-29**|**Data Poisoning in LLMs: Jailbreak-Tuning and Scaling Laws**|Dillon Bowen et.al.|[2408.02946](http://arxiv.org/abs/2408.02946)|**[link](https://github.com/alignmentresearch/scaling-poisoning)**|
+|**2024-12-27**|**Data Poisoning in LLMs: Jailbreak-Tuning and Scaling Laws**|Dillon Bowen et.al.|[2408.02946](http://arxiv.org/abs/2408.02946)|**[link](https://github.com/alignmentresearch/scaling-poisoning)**|
 |**2024-08-05**|**Can Reinforcement Learning Unlock the Hidden Dangers in Aligned Large Language Models?**|Mohammad Bahrami Karkevandi et.al.|[2408.02651](http://arxiv.org/abs/2408.02651)|null|
 |**2024-12-23**|**SEAS: Self-Evolving Adversarial Safety Optimization for Large Language Models**|Muxi Diao et.al.|[2408.02632](http://arxiv.org/abs/2408.02632)|null|
 |**2024-08-02**|**Mission Impossible: A Statistical Perspective on Jailbreaking LLMs**|Jingtong Su et.al.|[2408.01420](http://arxiv.org/abs/2408.01420)|null|
