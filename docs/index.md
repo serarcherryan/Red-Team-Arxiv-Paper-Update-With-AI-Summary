@@ -58,7 +58,7 @@ layout: default
 |**2024-12-10**|**PrisonBreak: Jailbreaking Large Language Models with Fewer Than Twenty-Five Targeted Bit-flips**|Zachary Coalson et.al.|[2412.07192](http://arxiv.org/abs/2412.07192)|null|
 |**2024-11-03**|**Poison Attacks and Adversarial Prompts Against an Informed University Virtual Assistant**|Ivan A. Fernandez et.al.|[2412.06788](http://arxiv.org/abs/2412.06788)|null|
 |**2024-12-09**|**Enhancing Adversarial Resistance in LLMs with Recursion**|Bryan Li et.al.|[2412.06181](http://arxiv.org/abs/2412.06181)|null|
-|**2025-01-03**|**Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models**|Ma Teng et.al.|[2412.05934](http://arxiv.org/abs/2412.05934)|null|
+|**2025-01-03**|**Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models**|Ma Teng et.al.|[2412.05934](http://arxiv.org/abs/2412.05934)|**[link](https://github.com/matengsysu/himrd-jailbreak)**|
 |**2024-12-16**|**PBI-Attack: Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for Toxicity Maximization**|Ruoxi Cheng et.al.|[2412.05892](http://arxiv.org/abs/2412.05892)|null|
 |**2024-12-07**|**PrivAgent: Agentic-based Red-teaming for LLM Privacy Leakage**|Yuzhou Nie et.al.|[2412.05734](http://arxiv.org/abs/2412.05734)|**[link](https://github.com/rucnyz/redagent)**|
 |**2024-12-06**|**BadGPT-4o: stripping safety finetuning from GPT models**|Ekaterina Krupkina et.al.|[2412.05346](http://arxiv.org/abs/2412.05346)|null|
