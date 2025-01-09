@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.08
+## Updated on 2025.01.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Red Teaming
@@ -37,7 +37,7 @@ layout: default
 |**2024-12-20**|**Logical Consistency of Large Language Models in Fact-checking**|Bishwamittra Ghosh et.al.|[2412.16100](http://arxiv.org/abs/2412.16100)|null|
 |**2024-12-20**|**JailPO: A Novel Black-box Jailbreak Framework via Preference Optimization against Aligned LLMs**|Hongyi Li et.al.|[2412.15623](http://arxiv.org/abs/2412.15623)|null|
 |**2024-12-19**|**SATA: A Paradigm for LLM Jailbreak via Simple Assistive Task Linkage**|Xiaoning Dong et.al.|[2412.15289](http://arxiv.org/abs/2412.15289)|null|
-|**2024-12-17**|**Toxicity Detection towards Adaptability to Changing Perturbations**|Hankun Kang et.al.|[2412.15267](http://arxiv.org/abs/2412.15267)|null|
+|**2025-01-08**|**Toxicity Detection towards Adaptability to Changing Perturbations**|Hankun Kang et.al.|[2412.15267](http://arxiv.org/abs/2412.15267)|null|
 |**2024-12-18**|**Evaluation of LLM Vulnerabilities to Being Misused for Personalized Disinformation Generation**|Aneta Zugecova et.al.|[2412.13666](http://arxiv.org/abs/2412.13666)|null|
 |**2024-12-17**|**Concept-ROT: Poisoning Concepts in Large Language Models with Model Editing**|Keltin Grimes et.al.|[2412.13341](http://arxiv.org/abs/2412.13341)|**[link](https://github.com/keltin13/concept-rot)**|
 |**2024-12-17**|**Jailbreaking? One Step Is Enough!**|Weixiong Zheng et.al.|[2412.12621](http://arxiv.org/abs/2412.12621)|null|
