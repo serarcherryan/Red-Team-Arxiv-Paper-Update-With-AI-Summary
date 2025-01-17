@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-16**|**A Survey on Responsible LLMs: Inherent Risk, Malicious Use, and Mitigation Strategy**|Huandong Wang et.al.|[2501.09431](http://arxiv.org/abs/2501.09431)|null|
+|**2025-01-14**|**Playing Devil's Advocate: Unmasking Toxicity and Vulnerabilities in Large Vision-Language Models**|Abdulkadir Erol et.al.|[2501.09039](http://arxiv.org/abs/2501.09039)|null|
 |**2025-01-15**|**SAIF: A Comprehensive Framework for Evaluating the Risks of Generative AI in the Public Sector**|Kyeongryul Lee et.al.|[2501.08814](http://arxiv.org/abs/2501.08814)|null|
 |**2025-01-14**|**Text-Diffusion Red-Teaming of Large Language Models: Unveiling Harmful Behaviors with Proximity Constraints**|Jonathan Nöther et.al.|[2501.08246](http://arxiv.org/abs/2501.08246)|null|
 |**2025-01-14**|**Self-Instruct Few-Shot Jailbreaking: Decompose the Attack into Pattern and Behavior Learning**|Jiaqi Hua et.al.|[2501.07959](http://arxiv.org/abs/2501.07959)|**[link](https://github.com/iphosi/self-instruct-fsj)**|
