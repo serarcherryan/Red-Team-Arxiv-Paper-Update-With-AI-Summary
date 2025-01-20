@@ -329,7 +329,7 @@
 |**2024-11-02**|**Code-Switching Red-Teaming: LLM Evaluation for Safety and Multilingual Understanding**|Haneul Yoo et.al.|[2406.15481](http://arxiv.org/abs/2406.15481)|**[link](https://github.com/haneul-yoo/csrt)**|
 |**2024-06-21**|**From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking**|Siyuan Wang et.al.|[2406.14859](http://arxiv.org/abs/2406.14859)|null|
 |**2024-07-01**|**Adversaries Can Misuse Combinations of Safe Models**|Erik Jones et.al.|[2406.14595](http://arxiv.org/abs/2406.14595)|null|
-|**2024-10-04**|**Jailbreaking as a Reward Misspecification Problem**|Zhihui Xie et.al.|[2406.14393](http://arxiv.org/abs/2406.14393)|**[link](https://github.com/zhxieml/remiss-jailbreak)**|
+|**2025-01-17**|**Jailbreaking as a Reward Misspecification Problem**|Zhihui Xie et.al.|[2406.14393](http://arxiv.org/abs/2406.14393)|**[link](https://github.com/zhxieml/remiss-jailbreak)**|
 |**2024-06-20**|**Finding Safety Neurons in Large Language Models**|Jianhui Chen et.al.|[2406.14144](http://arxiv.org/abs/2406.14144)|null|
 |**2024-06-19**|**ObscurePrompt: Jailbreaking Large Language Models via Obscure Input**|Yue Huang et.al.|[2406.13662](http://arxiv.org/abs/2406.13662)|**[link](https://github.com/HowieHwong/ObscurePrompt)**|
 |**2024-08-21**|**SHIELD: Evaluation and Defense Strategies for Copyright Compliance in LLM Text Generation**|Xiaoze Liu et.al.|[2406.12975](http://arxiv.org/abs/2406.12975)|**[link](https://github.com/xz-liu/shield)**|
