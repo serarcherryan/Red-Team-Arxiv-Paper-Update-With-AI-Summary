@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**You Can't Eat Your Cake and Have It Too: The Performance Degradation of LLMs with Jailbreak Defense**|Wuyuao Mai et.al.|[2501.12210](http://arxiv.org/abs/2501.12210)|null|
+|**2025-01-19**|**Can Safety Fine-Tuning Be More Principled? Lessons Learned from Cybersecurity**|David Williams-King et.al.|[2501.11183](http://arxiv.org/abs/2501.11183)|null|
+|**2025-01-18**|**Jailbreaking Large Language Models in Infinitely Many Ways**|Oliver Goldstein et.al.|[2501.10800](http://arxiv.org/abs/2501.10800)|null|
+|**2025-01-18**|**Latent-space adversarial training with post-aware calibration for defending large language models against jailbreak attacks**|Xin Yi et.al.|[2501.10639](http://arxiv.org/abs/2501.10639)|null|
+|**2024-12-17**|**What Information Should Be Shared with Whom "Before and During Training"?**|Haydn Belfield et.al.|[2501.10379](http://arxiv.org/abs/2501.10379)|null|
 |**2025-01-16**|**A Survey on Responsible LLMs: Inherent Risk, Malicious Use, and Mitigation Strategy**|Huandong Wang et.al.|[2501.09431](http://arxiv.org/abs/2501.09431)|null|
 |**2025-01-14**|**Playing Devil's Advocate: Unmasking Toxicity and Vulnerabilities in Large Vision-Language Models**|Abdulkadir Erol et.al.|[2501.09039](http://arxiv.org/abs/2501.09039)|null|
 |**2025-01-15**|**SAIF: A Comprehensive Framework for Evaluating the Risks of Generative AI in the Public Sector**|Kyeongryul Lee et.al.|[2501.08814](http://arxiv.org/abs/2501.08814)|null|
@@ -159,7 +164,7 @@ layout: default
 |**2024-10-18**|**JAILJUDGE: A Comprehensive Jailbreak Judge Benchmark with Multi-Agent Enhanced Explanation Evaluation Framework**|Fan Liu et.al.|[2410.12855](http://arxiv.org/abs/2410.12855)|null|
 |**2024-10-19**|**Multi-round jailbreak attack on large language models**|Yihua Zhou et.al.|[2410.11533](http://arxiv.org/abs/2410.11533)|null|
 |**2024-10-15**|**Jigsaw Puzzles: Splitting Harmful Questions to Jailbreak Large Language Models**|Hao Yang et.al.|[2410.11459](http://arxiv.org/abs/2410.11459)|**[link](https://github.com/yanghao97/jigsawpuzzles)**|
-|**2024-10-15**|**Deciphering the Chaos: Enhancing Jailbreak Attacks via Adversarial Prompt Translation**|Qizhang Li et.al.|[2410.11317](http://arxiv.org/abs/2410.11317)|**[link](https://github.com/qizhangli/adversarial-prompt-translator)**|
+|**2025-01-20**|**Deciphering the Chaos: Enhancing Jailbreak Attacks via Adversarial Prompt Translation**|Qizhang Li et.al.|[2410.11317](http://arxiv.org/abs/2410.11317)|**[link](https://github.com/qizhangli/adversarial-prompt-translator)**|
 |**2024-10-15**|**AdvBDGen: Adversarially Fortified Prompt-Specific Fuzzy Backdoor Generator Against LLM Alignment**|Pankayaraj Pathmanathan et.al.|[2410.11283](http://arxiv.org/abs/2410.11283)|null|
 |**2024-10-15**|**Cognitive Overload Attack:Prompt Injection for Long Context**|Bibek Upadhayay et.al.|[2410.11272](http://arxiv.org/abs/2410.11272)|**[link](https://github.com/UNHSAILLab/cognitive-overload-attack)**|
 |**2024-10-14**|**Derail Yourself: Multi-turn LLM Jailbreak Attack through Self-discovered Clues**|Qibing Ren et.al.|[2410.10700](http://arxiv.org/abs/2410.10700)|**[link](https://github.com/renqibing/actorattack)**|
@@ -362,7 +367,7 @@ layout: default
 |**2024-09-25**|**Ranking Manipulation for Conversational Search Engines**|Samuel Pfrommer et.al.|[2406.03589](http://arxiv.org/abs/2406.03589)|**[link](https://github.com/spfrommer/ranking_manipulation_data_pipeline)**|
 |**2024-06-03**|**Unelicitable Backdoors in Language Models via Cryptographic Transformer Circuits**|Andis Draguns et.al.|[2406.02619](http://arxiv.org/abs/2406.02619)|**[link](https://github.com/ag8/sha-transformer)**|
 |**2024-05-28**|**Are PPO-ed Language Models Hackable?**|Suraj Anand et.al.|[2406.02577](http://arxiv.org/abs/2406.02577)|null|
-|**2024-06-04**|**QROA: A Black-Box Query-Response Optimization Attack on LLMs**|Hussein Jawad et.al.|[2406.02044](http://arxiv.org/abs/2406.02044)|**[link](https://github.com/qroa/qroa)**|
+|**2025-01-21**|**QROA: A Black-Box Query-Response Optimization Attack on LLMs**|Hussein Jawad et.al.|[2406.02044](http://arxiv.org/abs/2406.02044)|**[link](https://github.com/qroa/qroa)**|
 |**2024-10-30**|**Improved Few-Shot Jailbreaking Can Circumvent Aligned Language Models and Their Defenses**|Xiaosen Zheng et.al.|[2406.01288](http://arxiv.org/abs/2406.01288)|**[link](https://github.com/sail-sg/i-fsj)**|
 |**2024-11-03**|**Are you still on track!? Catching LLM Task Drift with Activations**|Sahar Abdelnabi et.al.|[2406.00799](http://arxiv.org/abs/2406.00799)|**[link](https://github.com/microsoft/TaskTracker)**|
 |**2024-06-01**|**Exploring Vulnerabilities and Protections in Large Language Models: A Survey**|Frank Weizhen Liu et.al.|[2406.00240](http://arxiv.org/abs/2406.00240)|null|
@@ -466,7 +471,7 @@ layout: default
 |**2024-03-11**|**Using Hallucinations to Bypass GPT4's Filter**|Benjamin Lemkin et.al.|[2403.04769](http://arxiv.org/abs/2403.04769)|null|
 |**2024-10-04**|**Aligners: Decoupling LLMs and Alignment**|Lilian Ngweta et.al.|[2403.04224](http://arxiv.org/abs/2403.04224)|**[link](https://github.com/lilianngweta/aligners)**|
 |**2024-03-06**|**ImgTrojan: Jailbreaking Vision-Language Models with ONE Image**|Xijia Tao et.al.|[2403.02910](http://arxiv.org/abs/2403.02910)|**[link](https://github.com/xijia-tao/imgtrojan)**|
-|**2024-03-05**|**Here Comes The AI Worm: Unleashing Zero-click Worms that Target GenAI-Powered Applications**|Stav Cohen et.al.|[2403.02817](http://arxiv.org/abs/2403.02817)|null|
+|**2024-03-05**|**Here Comes The AI Worm: Unleashing Zero-click Worms that Target GenAI-Powered Applications**|Stav Cohen et.al.|[2403.02817](http://arxiv.org/abs/2403.02817)|**[link](https://github.com/stavc/compromptmized)**|
 |**2024-03-02**|**AutoAttacker: A Large Language Model Guided System to Implement Automatic Cyber-attacks**|Jiacen Xu et.al.|[2403.01038](http://arxiv.org/abs/2403.01038)|null|
 |**2024-11-07**|**Gradient Cuff: Detecting Jailbreak Attacks on Large Language Models by Exploring Refusal Loss Landscapes**|Xiaomeng Hu et.al.|[2403.00867](http://arxiv.org/abs/2403.00867)|null|
 |**2024-02-28**|**TroubleLLM: Align to Red Team Expert**|Zhuoer Xu et.al.|[2403.00829](http://arxiv.org/abs/2403.00829)|null|
@@ -578,7 +583,7 @@ layout: default
 |**2024-05-22**|**Flames: Benchmarking Value Alignment of LLMs in Chinese**|Kexin Huang et.al.|[2311.06899](http://arxiv.org/abs/2311.06899)|**[link](https://github.com/aiflames/flames)**|
 |**2024-12-10**|**Summon a Demon and Bind it: A Grounded Theory of LLM Red Teaming**|Nanna Inie et.al.|[2311.06237](http://arxiv.org/abs/2311.06237)|null|
 |**2024-04-01**|**Fake Alignment: Are LLMs Really Aligned Well?**|Yixu Wang et.al.|[2311.05915](http://arxiv.org/abs/2311.05915)|**[link](https://github.com/aiflames/fake-alignment)**|
-|**2023-12-13**|**FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts**|Yichen Gong et.al.|[2311.05608](http://arxiv.org/abs/2311.05608)|**[link](https://github.com/thuccslab/figstep)**|
+|**2025-01-19**|**FigStep: Jailbreaking Large Vision-Language Models via Typographic Visual Prompts**|Yichen Gong et.al.|[2311.05608](http://arxiv.org/abs/2311.05608)|**[link](https://github.com/thuccslab/figstep)**|
 |**2024-03-08**|**Can LLMs Follow Simple Rules?**|Norman Mu et.al.|[2311.04235](http://arxiv.org/abs/2311.04235)|**[link](https://github.com/normster/llm_rules)**|
 |**2023-11-24**|**Scalable and Transferable Black-Box Jailbreaks for Language Models via Persona Modulation**|Rusheb Shah et.al.|[2311.03348](http://arxiv.org/abs/2311.03348)|null|
 |**2024-11-28**|**DeepInception: Hypnotize Large Language Model to Be Jailbreaker**|Xuan Li et.al.|[2311.03191](http://arxiv.org/abs/2311.03191)|**[link](https://github.com/tmlr-group/deepinception)**|
