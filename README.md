@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.05
+## Updated on 2025.02.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -231,7 +231,7 @@
 |**2024-10-02**|**FlipAttack: Jailbreak LLMs via Flipping**|Yue Liu et.al.|[2410.02832](http://arxiv.org/abs/2410.02832)|**[link](https://github.com/yueliu1999/flipattack)**|
 |**2024-10-01**|**PyRIT: A Framework for Security Risk Identification and Red Teaming in Generative AI System**|Gary D. Lopez Munoz et.al.|[2410.02828](http://arxiv.org/abs/2410.02828)|**[link](https://github.com/azure/pyrit)**|
 |**2024-10-03**|**SteerDiff: Steering towards Safe Text-to-Image Diffusion Models**|Hongxiang Zhang et.al.|[2410.02710](http://arxiv.org/abs/2410.02710)|null|
-|**2024-10-07**|**Jailbreak Antidote: Runtime Safety-Utility Balance via Sparse Representation Adjustment in Large Language Models**|Guobin Shen et.al.|[2410.02298](http://arxiv.org/abs/2410.02298)|null|
+|**2025-02-05**|**Jailbreak Antidote: Runtime Safety-Utility Balance via Sparse Representation Adjustment in Large Language Models**|Guobin Shen et.al.|[2410.02298](http://arxiv.org/abs/2410.02298)|null|
 |**2024-12-18**|**Data to Defense: The Role of Curation in Customizing LLMs Against Jailbreaking Attacks**|Xiaoqun Liu et.al.|[2410.02220](http://arxiv.org/abs/2410.02220)|null|
 |**2024-10-02**|**Automated Red Teaming with GOAT: the Generative Offensive Agent Tester**|Maya Pavlova et.al.|[2410.01606](http://arxiv.org/abs/2410.01606)|null|
 |**2024-10-04**|**HarmAug: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models**|Seanie Lee et.al.|[2410.01524](http://arxiv.org/abs/2410.01524)|**[link](https://github.com/imnotkind/HarmAug)**|
@@ -402,7 +402,7 @@
 |**2024-07-03**|**Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks**|Zonghao Ying et.al.|[2406.06302](http://arxiv.org/abs/2406.06302)|**[link](https://github.com/ny1024/jailbreak_gpt4o)**|
 |**2024-06-10**|**Safety Alignment Should Be Made More Than Just a Few Tokens Deep**|Xiangyu Qi et.al.|[2406.05946](http://arxiv.org/abs/2406.05946)|**[link](https://github.com/unispac/shallow-vs-deep-alignment)**|
 |**2024-06-13**|**How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States**|Zhenhong Zhou et.al.|[2406.05644](http://arxiv.org/abs/2406.05644)|**[link](https://github.com/ydyjya/llm-ihs-explanation)**|
-|**2024-09-05**|**SelfDefend: LLMs Can Defend Themselves against Jailbreaking in a Practical Manner**|Xunguang Wang et.al.|[2406.05498](http://arxiv.org/abs/2406.05498)|null|
+|**2025-02-05**|**SelfDefend: LLMs Can Defend Themselves against Jailbreaking in a Practical Manner**|Xunguang Wang et.al.|[2406.05498](http://arxiv.org/abs/2406.05498)|null|
 |**2024-06-08**|**Is On-Device AI Broken and Exploitable? Assessing the Trust and Ethics in Small Language Models**|Kalyan Nakka et.al.|[2406.05364](http://arxiv.org/abs/2406.05364)|null|
 |**2024-07-01**|**Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt**|Zonghao Ying et.al.|[2406.04031](http://arxiv.org/abs/2406.04031)|**[link](https://github.com/NY1024/BAP-Jailbreak-Vision-Language-Models-via-Bi-Modal-Adversarial-Prompt)**|
 |**2024-06-06**|**AutoJailbreak: Exploring Jailbreak Attacks and Defenses through a Dependency Lens**|Lin Lu et.al.|[2406.03805](http://arxiv.org/abs/2406.03805)|null|
@@ -741,7 +741,7 @@
 |**2017-12-02**|**Recurrent Neural Network Language Models for Open Vocabulary Event-Level Cyber Anomaly Detection**|Aaron Tuor et.al.|[1712.00557](http://arxiv.org/abs/1712.00557)|**[link](https://github.com/pnnl/safekit)**|
 |**2015-04-07**|**Security Toolbox for Detecting Novel and Sophisticated Android Malware**|Benjamin Holland et.al.|[1504.01693](http://arxiv.org/abs/1504.01693)|null|
 
-<p align=right>(<a href=#updated-on-20250205>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250206>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
