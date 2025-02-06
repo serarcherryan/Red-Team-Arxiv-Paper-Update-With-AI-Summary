@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**Understanding and Enhancing the Transferability of Jailbreaking Attacks**|Runqi Lin et.al.|[2502.03052](http://arxiv.org/abs/2502.03052)|null|
+|**2025-02-04**|**When Anti-Fraud Laws Become a Barrier to Computer Science Research**|Madelyne Xiao et.al.|[2502.02767](http://arxiv.org/abs/2502.02767)|null|
 |**2025-02-04**|**STAIR: Improving Safety Alignment with Introspective Reasoning**|Yichi Zhang et.al.|[2502.02384](http://arxiv.org/abs/2502.02384)|null|
 |**2025-02-04**|**PANDAS: Improving Many-shot Jailbreaking via Positive Affirmation, Negative Demonstration, and Adaptive Sampling**|Avery Ma et.al.|[2502.01925](http://arxiv.org/abs/2502.01925)|null|
 |**2025-02-03**|**Adversarial Reasoning at Jailbreaking Time**|Mahdi Sabbaghi et.al.|[2502.01633](http://arxiv.org/abs/2502.01633)|null|
@@ -512,7 +514,7 @@
 |**2024-11-14**|**AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks**|Yifan Zeng et.al.|[2403.04783](http://arxiv.org/abs/2403.04783)|**[link](https://github.com/xhmy/autodefense)**|
 |**2024-03-11**|**Using Hallucinations to Bypass GPT4's Filter**|Benjamin Lemkin et.al.|[2403.04769](http://arxiv.org/abs/2403.04769)|null|
 |**2024-10-04**|**Aligners: Decoupling LLMs and Alignment**|Lilian Ngweta et.al.|[2403.04224](http://arxiv.org/abs/2403.04224)|**[link](https://github.com/lilianngweta/aligners)**|
-|**2024-03-06**|**ImgTrojan: Jailbreaking Vision-Language Models with ONE Image**|Xijia Tao et.al.|[2403.02910](http://arxiv.org/abs/2403.02910)|**[link](https://github.com/xijia-tao/imgtrojan)**|
+|**2025-02-05**|**ImgTrojan: Jailbreaking Vision-Language Models with ONE Image**|Xijia Tao et.al.|[2403.02910](http://arxiv.org/abs/2403.02910)|**[link](https://github.com/xijia-tao/imgtrojan)**|
 |**2025-01-30**|**Here Comes The AI Worm: Unleashing Zero-click Worms that Target GenAI-Powered Applications**|Stav Cohen et.al.|[2403.02817](http://arxiv.org/abs/2403.02817)|**[link](https://github.com/stavc/compromptmized)**|
 |**2024-03-02**|**AutoAttacker: A Large Language Model Guided System to Implement Automatic Cyber-attacks**|Jiacen Xu et.al.|[2403.01038](http://arxiv.org/abs/2403.01038)|null|
 |**2024-11-07**|**Gradient Cuff: Detecting Jailbreak Attacks on Large Language Models by Exploring Refusal Loss Landscapes**|Xiaomeng Hu et.al.|[2403.00867](http://arxiv.org/abs/2403.00867)|null|
