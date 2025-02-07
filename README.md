@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**Speak Easy: Eliciting Harmful Jailbreaks from LLMs with Simple Interactions**|Yik Siu Chan et.al.|[2502.04322](http://arxiv.org/abs/2502.04322)|null|
+|**2025-02-06**|**"Short-length" Adversarial Training Helps LLMs Defend "Long-length" Jailbreak Attacks: Theoretical and Empirical Evidence**|Shaopeng Fu et.al.|[2502.04204](http://arxiv.org/abs/2502.04204)|null|
+|**2025-02-06**|**Leveraging Reasoning with Guidelines to Elicit and Utilize Knowledge for Enhancing Safety Alignment**|Haoyu Wang et.al.|[2502.04040](http://arxiv.org/abs/2502.04040)|null|
 |**2025-02-05**|**Understanding and Enhancing the Transferability of Jailbreaking Attacks**|Runqi Lin et.al.|[2502.03052](http://arxiv.org/abs/2502.03052)|null|
 |**2025-02-06**|**When Anti-Fraud Laws Become a Barrier to Computer Science Research**|Madelyne Xiao et.al.|[2502.02767](http://arxiv.org/abs/2502.02767)|null|
 |**2025-02-04**|**STAIR: Improving Safety Alignment with Introspective Reasoning**|Yichi Zhang et.al.|[2502.02384](http://arxiv.org/abs/2502.02384)|null|
@@ -79,7 +82,7 @@
 |**2025-01-02**|**CySecBench: Generative AI-based CyberSecurity-focused Prompt Dataset for Benchmarking Large Language Models**|Johan Wahréus et.al.|[2501.01335](http://arxiv.org/abs/2501.01335)|**[link](https://github.com/cysecbench/dataset)**|
 |**2024-12-29**|**Adversarial Negotiation Dynamics in Generative Language Models**|Arinbjörn Kolbeinsson et.al.|[2501.00069](http://arxiv.org/abs/2501.00069)|null|
 |**2024-12-28**|**LLM-Virus: Evolutionary Jailbreak Attack on Large Language Models**|Miao Yu et.al.|[2501.00055](http://arxiv.org/abs/2501.00055)|**[link](https://github.com/Ymm-cll/LLM-Virus)**|
-|**2024-12-30**|**InfAlign: Inference-aware language model alignment**|Ananth Balashankar et.al.|[2412.19792](http://arxiv.org/abs/2412.19792)|null|
+|**2025-02-06**|**InfAlign: Inference-aware language model alignment**|Ananth Balashankar et.al.|[2412.19792](http://arxiv.org/abs/2412.19792)|null|
 |**2024-12-24**|**Diverse and Effective Red Teaming with Auto-generated Rewards and Multi-step Reinforcement Learning**|Alex Beutel et.al.|[2412.18693](http://arxiv.org/abs/2412.18693)|null|
 |**2024-12-25**|**Token Highlighter: Inspecting and Mitigating Jailbreak Prompts for Large Language Models**|Xiaomeng Hu et.al.|[2412.18171](http://arxiv.org/abs/2412.18171)|null|
 |**2024-12-23**|**Retention Score: Quantifying Jailbreak Risks for Vision Language Models**|Zaitang Li et.al.|[2412.17544](http://arxiv.org/abs/2412.17544)|null|
@@ -219,7 +222,7 @@
 |**2024-10-11**|**AttnGCG: Enhancing Jailbreaking Attacks on LLMs with Attention Manipulation**|Zijun Wang et.al.|[2410.09040](http://arxiv.org/abs/2410.09040)|**[link](https://github.com/ucsc-vlaa/attngcg-attack)**|
 |**2024-10-14**|**AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents**|Maksym Andriushchenko et.al.|[2410.09024](http://arxiv.org/abs/2410.09024)|null|
 |**2024-11-29**|**RePD: Defending Jailbreak Attack through a Retrieval-based Prompt Decomposition Process**|Peiran Wang et.al.|[2410.08660](http://arxiv.org/abs/2410.08660)|null|
-|**2024-10-09**|**Root Defence Strategies: Ensuring Safety of LLM at the Decoding Level**|Xinyi Zeng et.al.|[2410.06809](http://arxiv.org/abs/2410.06809)|null|
+|**2025-02-06**|**Root Defence Strategies: Ensuring Safety of LLM at the Decoding Level**|Xinyi Zeng et.al.|[2410.06809](http://arxiv.org/abs/2410.06809)|null|
 |**2024-10-04**|**Developing Assurance Cases for Adversarial Robustness and Regulatory Compliance in LLMs**|Tomas Bueno Momcilovic et.al.|[2410.05304](http://arxiv.org/abs/2410.05304)|null|
 |**2024-11-27**|**AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs**|Xiaogeng Liu et.al.|[2410.05295](http://arxiv.org/abs/2410.05295)|**[link](https://github.com/safolab-wisc/autodan-turbo)**|
 |**2024-10-06**|**Attention Shift: Steering AI Away from Unsafe Content**|Shivank Garg et.al.|[2410.04447](http://arxiv.org/abs/2410.04447)|null|
