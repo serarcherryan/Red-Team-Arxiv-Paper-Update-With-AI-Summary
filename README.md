@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.12
+## Updated on 2025.02.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2025-02-11**|**When Data Manipulation Meets Attack Goals: An In-depth Survey of Attacks for VLMs**|Aobotao Dai et.al.|[2502.06390](http://arxiv.org/abs/2502.06390)|null|
 |**2025-02-07**|**Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware Minimization Perspective and Beyond**|Chongyu Fan et.al.|[2502.05374](http://arxiv.org/abs/2502.05374)|null|
 |**2025-02-05**|**KDA: A Knowledge-Distilled Attacker for Generating Diverse Prompts to Jailbreak LLMs**|Buyun Liang et.al.|[2502.05223](http://arxiv.org/abs/2502.05223)|null|
-|**2025-02-02**|**Safety at Scale: A Comprehensive Survey of Large Model Safety**|Xingjun Ma et.al.|[2502.05206](http://arxiv.org/abs/2502.05206)|null|
+|**2025-02-12**|**Safety at Scale: A Comprehensive Survey of Large Model Safety**|Xingjun Ma et.al.|[2502.05206](http://arxiv.org/abs/2502.05206)|null|
 |**2025-02-06**|**Speak Easy: Eliciting Harmful Jailbreaks from LLMs with Simple Interactions**|Yik Siu Chan et.al.|[2502.04322](http://arxiv.org/abs/2502.04322)|null|
 |**2025-02-06**|**"Short-length" Adversarial Training Helps LLMs Defend "Long-length" Jailbreak Attacks: Theoretical and Empirical Evidence**|Shaopeng Fu et.al.|[2502.04204](http://arxiv.org/abs/2502.04204)|null|
 |**2025-02-06**|**Leveraging Reasoning with Guidelines to Elicit and Utilize Knowledge for Enhancing Safety Alignment**|Haoyu Wang et.al.|[2502.04040](http://arxiv.org/abs/2502.04040)|null|
@@ -80,7 +80,7 @@
 |**2025-02-02**|**Gandalf the Red: Adaptive Security for LLMs**|Niklas Pfister et.al.|[2501.07927](http://arxiv.org/abs/2501.07927)|**[link](https://github.com/lakeraai/dsec-gandalf)**|
 |**2025-01-13**|**Lessons From Red Teaming 100 Generative AI Products**|Blake Bullwinkel et.al.|[2501.07238](http://arxiv.org/abs/2501.07238)|null|
 |**2025-01-09**|**Jailbreaking Multimodal Large Language Models via Shuffle Inconsistency**|Shiji Zhao et.al.|[2501.04931](http://arxiv.org/abs/2501.04931)|null|
-|**2025-01-05**|**Layer-Level Self-Exposure and Patch: Affirmative Token Mitigation for Jailbreak Attack Defense**|Yang Ouyang et.al.|[2501.02629](http://arxiv.org/abs/2501.02629)|**[link](https://github.com/ledllm/ledllm)**|
+|**2025-02-12**|**Layer-Level Self-Exposure and Patch: Affirmative Token Mitigation for Jailbreak Attack Defense**|Yang Ouyang et.al.|[2501.02629](http://arxiv.org/abs/2501.02629)|**[link](https://github.com/ledllm/ledllm)**|
 |**2025-01-03**|**Spot Risks Before Speaking! Unraveling Safety Attention Heads in Large Vision-Language Models**|Ziwei Zheng et.al.|[2501.02029](http://arxiv.org/abs/2501.02029)|null|
 |**2025-01-02**|**Safeguarding Large Language Models in Real-time with Tunable Safety-Performance Trade-offs**|Joao Fonseca et.al.|[2501.02018](http://arxiv.org/abs/2501.02018)|null|
 |**2025-01-09**|**Turning Logic Against Itself : Probing Model Defenses Through Contrastive Questions**|Rachneet Sachdeva et.al.|[2501.01872](http://arxiv.org/abs/2501.01872)|**[link](https://github.com/ukplab/poate-attack)**|
@@ -148,7 +148,7 @@
 |**2024-11-28**|**Exploring Visual Vulnerabilities via Multi-Loss Adversarial Search for Jailbreaking Vision-Language Models**|Shuyang Hao et.al.|[2411.18000](http://arxiv.org/abs/2411.18000)|null|
 |**2024-11-26**|**Adaptive Deployment of Untrusted LLMs Reduces Distributed Threats**|Jiaxin Wen et.al.|[2411.17693](http://arxiv.org/abs/2411.17693)|null|
 |**2025-01-14**|**Don't Command, Cultivate: An Exploratory Study of System-2 Alignment**|Yuhang Wang et.al.|[2411.17075](http://arxiv.org/abs/2411.17075)|**[link](https://github.com/adam-bjtu/system-2-alignment)**|
-|**2024-11-25**|**In-Context Experience Replay Facilitates Safety Red-Teaming of Text-to-Image Diffusion Models**|Zhi-Yi Chin et.al.|[2411.16769](http://arxiv.org/abs/2411.16769)|null|
+|**2025-02-12**|**In-Context Experience Replay Facilitates Safety Red-Teaming of Text-to-Image Diffusion Models**|Zhi-Yi Chin et.al.|[2411.16769](http://arxiv.org/abs/2411.16769)|null|
 |**2024-11-23**|**ChemSafetyBench: Benchmarking LLM Safety on Chemistry Domain**|Haochen Zhao et.al.|[2411.16736](http://arxiv.org/abs/2411.16736)|**[link](https://github.com/haochenzhao/safeagent4chem)**|
 |**2024-12-04**|**"Moralized" Multi-Step Jailbreak Prompts: Black-Box Testing of Guardrails in Large Language Models for Verbal Attacks**|Libo Wang et.al.|[2411.16730](http://arxiv.org/abs/2411.16730)|**[link](https://github.com/brucewang123456789/GeniusTrail)**|
 |**2024-11-29**|**Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks**|Han Wang et.al.|[2411.16721](http://arxiv.org/abs/2411.16721)|**[link](https://github.com/ASTRAL-Group/ASTRA)**|
@@ -190,7 +190,7 @@
 |**2024-10-29**|**AmpleGCG-Plus: A Strong Generative Model of Adversarial Suffixes to Jailbreak LLMs with Higher Success Rates in Fewer Attempts**|Vishal Kumar et.al.|[2410.22143](http://arxiv.org/abs/2410.22143)|null|
 |**2024-10-29**|**SG-Bench: Evaluating LLM Safety Generalization Across Diverse Tasks and Prompt Types**|Yutao Mou et.al.|[2410.21965](http://arxiv.org/abs/2410.21965)|**[link](https://github.com/MurrayTom/SG-Bench)**|
 |**2024-10-28**|**Stealthy Jailbreak Attacks on Large Language Models via Benign Data Mirroring**|Honglin Mu et.al.|[2410.21083](http://arxiv.org/abs/2410.21083)|null|
-|**2024-10-28**|**BlueSuffix: Reinforced Blue Teaming for Vision-Language Models Against Jailbreak Attacks**|Yunhan Zhao et.al.|[2410.20971](http://arxiv.org/abs/2410.20971)|null|
+|**2025-02-12**|**BlueSuffix: Reinforced Blue Teaming for Vision-Language Models Against Jailbreak Attacks**|Yunhan Zhao et.al.|[2410.20971](http://arxiv.org/abs/2410.20971)|null|
 |**2024-10-25**|**RobustKV: Defending Large Language Models against Jailbreak Attacks via KV Eviction**|Tanqiu Jiang et.al.|[2410.19937](http://arxiv.org/abs/2410.19937)|null|
 |**2024-10-25**|**An Auditing Test To Detect Behavioral Shift in Language Models**|Leo Richter et.al.|[2410.19406](http://arxiv.org/abs/2410.19406)|**[link](https://github.com/richterleo/Auditing_Test_for_LMs)**|
 |**2024-10-25**|**Iterative Self-Tuning LLMs for Enhanced Jailbreaking Capabilities**|Chung-En Sun et.al.|[2410.18469](http://arxiv.org/abs/2410.18469)|**[link](https://github.com/sunchungen/adv-llm)**|
@@ -371,7 +371,7 @@
 |**2024-07-01**|**Enhancing the Capability and Robustness of Large Language Models through Reinforcement Learning-Driven Query Refinement**|Zisu Huang et.al.|[2407.01461](http://arxiv.org/abs/2407.01461)|**[link](https://github.com/huangzisu/query-refinement)**|
 |**2024-07-01**|**Badllama 3: removing safety finetuning from Llama 3 in minutes**|Dmitrii Volkov et.al.|[2407.01376](http://arxiv.org/abs/2407.01376)|null|
 |**2024-09-23**|**Large Language Models Are Involuntary Truth-Tellers: Exploiting Fallacy Failure for Jailbreak Attacks**|Yue Zhou et.al.|[2407.00869](http://arxiv.org/abs/2407.00869)|**[link](https://github.com/Yue-LLM-Pit/FFA)**|
-|**2024-10-01**|**Logicbreaks: A Framework for Understanding Subversion of Rule-based Inference**|Anton Xue et.al.|[2407.00075](http://arxiv.org/abs/2407.00075)|null|
+|**2025-02-11**|**Logicbreaks: A Framework for Understanding Subversion of Rule-based Inference**|Anton Xue et.al.|[2407.00075](http://arxiv.org/abs/2407.00075)|null|
 |**2024-07-11**|**Virtual Context: Enhancing Jailbreak Attacks with Special Token Injection**|Yuqi Zhou et.al.|[2406.19845](http://arxiv.org/abs/2406.19845)|null|
 |**2024-10-03**|**Jailbreaking LLMs with Arabic Transliteration and Arabizi**|Mansour Al Ghanim et.al.|[2406.18725](http://arxiv.org/abs/2406.18725)|**[link](https://github.com/securedl/arabic_jailbreak)**|
 |**2024-07-08**|**The Multilingual Alignment Prism: Aligning Global and Local Preferences to Reduce Harm**|Aakanksha et.al.|[2406.18682](http://arxiv.org/abs/2406.18682)|null|
@@ -461,7 +461,7 @@
 |**2024-08-06**|**Hummer: Towards Limited Competitive Preference Dataset**|Li Jiang et.al.|[2405.11647](http://arxiv.org/abs/2405.11647)|null|
 |**2024-05-15**|**Benchmark Early and Red Team Often: A Framework for Assessing and Managing Dual-Use Hazards of AI Foundation Models**|Anthony M. Barrett et.al.|[2405.10986](http://arxiv.org/abs/2405.10986)|null|
 |**2024-10-05**|**Red Teaming Language Models for Processing Contradictory Dialogues**|Xiaofei Wen et.al.|[2405.10128](http://arxiv.org/abs/2405.10128)|**[link](https://github.com/luka-group/contraDialog)**|
-|**2024-05-15**|**Efficient LLM Jailbreak via Adaptive Dense-to-sparse Constrained Optimization**|Kai Hu et.al.|[2405.09113](http://arxiv.org/abs/2405.09113)|null|
+|**2025-02-12**|**Efficient LLM Jailbreak via Adaptive Dense-to-sparse Constrained Optimization**|Kai Hu et.al.|[2405.09113](http://arxiv.org/abs/2405.09113)|null|
 |**2024-05-15**|**A safety realignment framework via subspace-oriented model fusion for large language models**|Xin Yi et.al.|[2405.09055](http://arxiv.org/abs/2405.09055)|**[link](https://github.com/xinykou/safety_realignment)**|
 |**2024-05-14**|**SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models**|Raghuveer Peri et.al.|[2405.08317](http://arxiv.org/abs/2405.08317)|null|
 |**2024-05-14**|**PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition**|Ziyang Zhang et.al.|[2405.07932](http://arxiv.org/abs/2405.07932)|**[link](https://github.com/ed-zh/parden)**|
@@ -753,7 +753,7 @@
 |**2017-12-02**|**Recurrent Neural Network Language Models for Open Vocabulary Event-Level Cyber Anomaly Detection**|Aaron Tuor et.al.|[1712.00557](http://arxiv.org/abs/1712.00557)|**[link](https://github.com/pnnl/safekit)**|
 |**2015-04-07**|**Security Toolbox for Detecting Novel and Sophisticated Android Malware**|Benjamin Holland et.al.|[1504.01693](http://arxiv.org/abs/1504.01693)|null|
 
-<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
