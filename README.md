@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.19
+## Updated on 2025.02.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -134,7 +134,7 @@
 |**2024-12-17**|**Jailbreaking? One Step Is Enough!**|Weixiong Zheng et.al.|[2412.12621](http://arxiv.org/abs/2412.12621)|null|
 |**2024-12-17**|**Subversion Strategy Eval: Evaluating AI's stateless strategic capabilities against control protocols**|Alex Mallen et.al.|[2412.12480](http://arxiv.org/abs/2412.12480)|null|
 |**2024-12-13**|**No Free Lunch for Defending Against Prefilling Attack by In-Context Learning**|Zhiyu Xue et.al.|[2412.12192](http://arxiv.org/abs/2412.12192)|null|
-|**2025-02-16**|**Na'vi or Knave: Jailbreaking Language Models via Metaphorical Avatars**|Yu Yan et.al.|[2412.12145](http://arxiv.org/abs/2412.12145)|null|
+|**2025-02-19**|**Na'vi or Knave: Jailbreaking Language Models via Metaphorical Avatars**|Yu Yan et.al.|[2412.12145](http://arxiv.org/abs/2412.12145)|null|
 |**2024-12-15**|**SpearBot: Leveraging Large Language Models in a Generative-Critique Framework for Spear-Phishing Email Generation**|Qinglin Qi et.al.|[2412.11109](http://arxiv.org/abs/2412.11109)|null|
 |**2025-02-17**|**Separate the Wheat from the Chaff: A Post-Hoc Approach to Safety Re-Alignment for Fine-Tuned Language Models**|Di Wu et.al.|[2412.11041](http://arxiv.org/abs/2412.11041)|null|
 |**2024-12-14**|**IntelEX: A LLM-driven Attack-level Threat Intelligence Extraction Framework**|Ming Xu et.al.|[2412.10872](http://arxiv.org/abs/2412.10872)|null|
@@ -778,7 +778,7 @@
 |**2017-12-02**|**Recurrent Neural Network Language Models for Open Vocabulary Event-Level Cyber Anomaly Detection**|Aaron Tuor et.al.|[1712.00557](http://arxiv.org/abs/1712.00557)|**[link](https://github.com/pnnl/safekit)**|
 |**2015-04-07**|**Security Toolbox for Detecting Novel and Sophisticated Android Malware**|Benjamin Holland et.al.|[1504.01693](http://arxiv.org/abs/1504.01693)|null|
 
-<p align=right>(<a href=#updated-on-20250219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250220>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
