@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.20
+## Updated on 2025.02.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -43,7 +43,7 @@
 |**2025-02-04**|**Position: Stop Acting Like Language Model Agents Are Normal Agents**|Elija Perrier et.al.|[2502.10420](http://arxiv.org/abs/2502.10420)|null|
 |**2025-02-14**|**X-Boundary: Establishing Exact Safety Boundary to Shield LLMs from Multi-Turn Jailbreaks without Compromising Usability**|Xiaoya Lu et.al.|[2502.09990](http://arxiv.org/abs/2502.09990)|null|
 |**2025-02-13**|**Enhancing Jailbreak Attacks via Compliance-Refusal-Based Initialization**|Amit Levi et.al.|[2502.09755](http://arxiv.org/abs/2502.09755)|null|
-|**2025-02-13**|**Making Them a Malicious Database: Exploiting Query Code to Jailbreak Aligned Large Language Models**|Qingsong Zou et.al.|[2502.09723](http://arxiv.org/abs/2502.09723)|null|
+|**2025-02-20**|**Making Them a Malicious Database: Exploiting Query Code to Jailbreak Aligned Large Language Models**|Qingsong Zou et.al.|[2502.09723](http://arxiv.org/abs/2502.09723)|null|
 |**2025-02-18**|**The Hidden Dimensions of LLM Alignment: A Multi-Dimensional Safety Analysis**|Wenbo Pan et.al.|[2502.09674](http://arxiv.org/abs/2502.09674)|null|
 |**2025-02-09**|**Jailbreaking to Jailbreak**|Jeremy Kritz et.al.|[2502.09638](http://arxiv.org/abs/2502.09638)|null|
 |**2025-02-13**|**FLAME: Flexible LLM-Assisted Moderation Engine**|Ivan Bakulin et.al.|[2502.09175](http://arxiv.org/abs/2502.09175)|null|
@@ -354,7 +354,7 @@
 |**2024-10-17**|**Cross-modality Information Check for Detecting Jailbreaking in Multimodal Large Language Models**|Yue Xu et.al.|[2407.21659](http://arxiv.org/abs/2407.21659)|**[link](https://github.com/pandragonxiii/cider)**|
 |**2025-01-16**|**Direct Unlearning Optimization for Robust and Safe Text-to-Image Models**|Yong-Hyun Park et.al.|[2407.21035](http://arxiv.org/abs/2407.21035)|null|
 |**2025-02-04**|**BadRobot: Jailbreaking Embodied LLMs in the Physical World**|Hangtao Zhang et.al.|[2407.20242](http://arxiv.org/abs/2407.20242)|null|
-|**2024-10-24**|**Effects of Scale on Language Model Robustness**|Nikolaus Howe et.al.|[2407.18213](http://arxiv.org/abs/2407.18213)|null|
+|**2025-02-19**|**Scaling Trends in Language Model Robustness**|Nikolaus Howe et.al.|[2407.18213](http://arxiv.org/abs/2407.18213)|null|
 |**2024-12-24**|**The Dark Side of Function Calling: Pathways to Jailbreaking Large Language Models**|Zihui Wu et.al.|[2407.17915](http://arxiv.org/abs/2407.17915)|**[link](https://github.com/wooozihui/jailbreakfunction)**|
 |**2024-10-01**|**FLRT: Fluent Student-Teacher Redteaming**|T. Ben Thompson et.al.|[2407.17447](http://arxiv.org/abs/2407.17447)|**[link](https://github.com/Confirm-Solutions/flrt)**|
 |**2024-10-07**|**Revisiting Who's Harry Potter: Towards Targeted Unlearning from a Causal Intervention Perspective**|Yujian Liu et.al.|[2407.16997](http://arxiv.org/abs/2407.16997)|**[link](https://github.com/ucsb-nlp-chang/causal_unlearn)**|
@@ -785,7 +785,7 @@
 |**2017-12-02**|**Recurrent Neural Network Language Models for Open Vocabulary Event-Level Cyber Anomaly Detection**|Aaron Tuor et.al.|[1712.00557](http://arxiv.org/abs/1712.00557)|**[link](https://github.com/pnnl/safekit)**|
 |**2015-04-07**|**Security Toolbox for Detecting Novel and Sophisticated Android Malware**|Benjamin Holland et.al.|[1504.01693](http://arxiv.org/abs/1504.01693)|null|
 
-<p align=right>(<a href=#updated-on-20250220>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250221>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
