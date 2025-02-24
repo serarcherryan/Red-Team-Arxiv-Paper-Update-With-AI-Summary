@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.23
+## Updated on 2025.02.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Red Teaming
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-20**|**Red-Teaming LLM Multi-Agent Systems via Communication Attacks**|Pengfei He et.al.|[2502.14847](http://arxiv.org/abs/2502.14847)|null|
-|**2025-02-20**|**HiddenDetect: Detecting Jailbreak Attacks against Large Vision-Language Models via Monitoring Hidden States**|Yilei Jiang et.al.|[2502.14744](http://arxiv.org/abs/2502.14744)|null|
+|**2025-02-21**|**HiddenDetect: Detecting Jailbreak Attacks against Large Vision-Language Models via Monitoring Hidden States**|Yilei Jiang et.al.|[2502.14744](http://arxiv.org/abs/2502.14744)|null|
 |**2025-02-20**|**How Jailbreak Defenses Work and Ensemble? A Mechanistic Investigation**|Zhuohang Long et.al.|[2502.14486](http://arxiv.org/abs/2502.14486)|null|
 |**2025-02-19**|**Why Safeguarded Ships Run Aground? Aligned Large Language Models' Safety Mechanisms Tend to Be Anchored in The Template Region**|Chak Tou Leong et.al.|[2502.13946](http://arxiv.org/abs/2502.13946)|null|
 |**2025-02-19**|**Efficient Safety Retrofitting Against Jailbreaking for LLMs**|Dario Garcia-Gasulla et.al.|[2502.13603](http://arxiv.org/abs/2502.13603)|null|
@@ -624,7 +624,7 @@ layout: default
 |**2024-05-16**|**Sowing the Wind, Reaping the Whirlwind: The Impact of Editing Language Models**|Rima Hazra et.al.|[2401.10647](http://arxiv.org/abs/2401.10647)|**[link](https://huggingface.co/datasets/SoftMINER-Group/NicheHazardQA)**|
 |**2024-02-12**|**All in How You Ask for It: Simple Black-Box Method for Jailbreak Attacks**|Kazuhiro Takemoto et.al.|[2401.09798](http://arxiv.org/abs/2401.09798)|**[link](https://github.com/kztakemoto/simbaja)**|
 |**2024-08-03**|**AttackEval: How to Evaluate the Effectiveness of Jailbreak Attacking on Large Language Models**|Dong shu et.al.|[2401.09002](http://arxiv.org/abs/2401.09002)|null|
-|**2024-12-24**|**Revisiting Jailbreaking for Large Language Models: A Representation Engineering Perspective**|Tianlong Li et.al.|[2401.06824](http://arxiv.org/abs/2401.06824)|null|
+|**2025-02-21**|**Revisiting Jailbreaking for Large Language Models: A Representation Engineering Perspective**|Tianlong Li et.al.|[2401.06824](http://arxiv.org/abs/2401.06824)|null|
 |**2024-12-16**|**Intention Analysis Makes LLMs A Good Jailbreak Defender**|Yuqi Zhang et.al.|[2401.06561](http://arxiv.org/abs/2401.06561)|**[link](https://github.com/alphadl/safellm_with_intentionanalysis)**|
 |**2024-01-23**|**How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs**|Yi Zeng et.al.|[2401.06373](http://arxiv.org/abs/2401.06373)|**[link](https://github.com/chats-lab/persuasive_jailbreaker)**|
 |**2024-01-11**|**Combating Adversarial Attacks with Multi-Agent Debate**|Steffi Chern et.al.|[2401.05998](http://arxiv.org/abs/2401.05998)|**[link](https://github.com/andyjliu/llms-course-project)**|
