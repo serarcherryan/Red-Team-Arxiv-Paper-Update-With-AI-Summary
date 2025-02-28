@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.27
+## Updated on 2025.02.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -43,8 +43,8 @@
 |**2025-02-16**|**ShieldLearner: A New Paradigm for Jailbreak Attack Defense in LLMs**|Ziyi Ni et.al.|[2502.13162](http://arxiv.org/abs/2502.13162)|null|
 |**2025-02-18**|**Understanding and Rectifying Safety Perception Distortion in VLMs**|Xiaohan Zou et.al.|[2502.13095](http://arxiv.org/abs/2502.13095)|null|
 |**2025-02-18**|**Reasoning-to-Defend: Safety-Aware Reasoning Can Defend Large Language Models from Jailbreaking**|Junda Zhu et.al.|[2502.12970](http://arxiv.org/abs/2502.12970)|null|
-|**2025-02-18**|**H-CoT: Hijacking the Chain-of-Thought Safety Reasoning Mechanism to Jailbreak Large Reasoning Models, Including OpenAI o1/o3, DeepSeek-R1, and Gemini 2.0 Flash Thinking**|Martin Kuo et.al.|[2502.12893](http://arxiv.org/abs/2502.12893)|**[link](https://github.com/dukeceicenter/jailbreak-o1o3-deepseek-r1)**|
-|**2025-02-25**|**The Hidden Risks of Large Reasoning Models: A Safety Assessment of R1**|Kaiwen Zhou et.al.|[2502.12659](http://arxiv.org/abs/2502.12659)|null|
+|**2025-02-27**|**H-CoT: Hijacking the Chain-of-Thought Safety Reasoning Mechanism to Jailbreak Large Reasoning Models, Including OpenAI o1/o3, DeepSeek-R1, and Gemini 2.0 Flash Thinking**|Martin Kuo et.al.|[2502.12893](http://arxiv.org/abs/2502.12893)|**[link](https://github.com/dukeceicenter/jailbreak-o1o3-deepseek-r1)**|
+|**2025-02-27**|**The Hidden Risks of Large Reasoning Models: A Safety Assessment of R1**|Kaiwen Zhou et.al.|[2502.12659](http://arxiv.org/abs/2502.12659)|null|
 |**2025-02-18**|**SoK: Understanding Vulnerabilities in the Large Language Model Supply Chain**|Shenao Wang et.al.|[2502.12497](http://arxiv.org/abs/2502.12497)|null|
 |**2025-02-18**|**Computational Safety for Generative AI: A Signal Processing Perspective**|Pin-Yu Chen et.al.|[2502.12445](http://arxiv.org/abs/2502.12445)|null|
 |**2025-02-17**|**DELMAN: Dynamic Defense Against Large Language Model Jailbreaking with Model Editing**|Yi Wang et.al.|[2502.11647](http://arxiv.org/abs/2502.11647)|null|
@@ -804,7 +804,7 @@
 |**2017-12-02**|**Recurrent Neural Network Language Models for Open Vocabulary Event-Level Cyber Anomaly Detection**|Aaron Tuor et.al.|[1712.00557](http://arxiv.org/abs/1712.00557)|**[link](https://github.com/pnnl/safekit)**|
 |**2015-04-07**|**Security Toolbox for Detecting Novel and Sophisticated Android Malware**|Benjamin Holland et.al.|[1504.01693](http://arxiv.org/abs/1504.01693)|null|
 
-<p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250228>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
