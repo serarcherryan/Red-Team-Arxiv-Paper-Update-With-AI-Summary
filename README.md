@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.02
+## Updated on 2025.03.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-02-27**|**Beyond the Tip of Efficiency: Uncovering the Submerged Threats of Jailbreak Attacks in Small Language Models**|Sibo Yi et.al.|[2502.19883](http://arxiv.org/abs/2502.19883)|null|
-|**2025-02-27**|**Foot-In-The-Door: A Multi-turn Jailbreak for LLMs**|Zixuan Weng et.al.|[2502.19820](http://arxiv.org/abs/2502.19820)|null|
+|**2025-02-28**|**Foot-In-The-Door: A Multi-turn Jailbreak for LLMs**|Zixuan Weng et.al.|[2502.19820](http://arxiv.org/abs/2502.19820)|null|
 |**2025-02-26**|**No, of course I can! Refusal Mechanisms Can Be Exploited Using Harmless Fine-Tuning Data**|Joshua Kazdan et.al.|[2502.19537](http://arxiv.org/abs/2502.19537)|null|
 |**2025-02-26**|**Beyond Surface-Level Patterns: An Essence-Driven Defense Framework Against Jailbreak Attacks in LLMs**|Shiyu Xiang et.al.|[2502.19041](http://arxiv.org/abs/2502.19041)|null|
 |**2025-02-26**|**JailBench: A Comprehensive Chinese Security Assessment Benchmark for Large Language Models**|Shuyi Liu et.al.|[2502.18935](http://arxiv.org/abs/2502.18935)|null|
@@ -228,7 +228,7 @@
 |**2024-11-02**|**What Features in Prompts Jailbreak LLMs? Investigating the Mechanisms Behind Attacks**|Nathalie Maria Kirch et.al.|[2411.03343](http://arxiv.org/abs/2411.03343)|**[link](https://github.com/NLie2/what_features_jailbreak_LLMs)**|
 |**2024-12-05**|**Stochastic Monkeys at Play: Random Augmentations Cheaply Break LLM Safety Alignment**|Jason Vega et.al.|[2411.02785](http://arxiv.org/abs/2411.02785)|**[link](https://github.com/uiuc-focal-lab/stochastic-monkeys)**|
 |**2025-01-31**|**UniGuard: Towards Universal Safety Guardrails for Jailbreak Attacks on Multimodal Large Language Models**|Sejoon Oh et.al.|[2411.01703](http://arxiv.org/abs/2411.01703)|null|
-|**2025-02-03**|**SQL Injection Jailbreak: A Structural Disaster of Large Language Models**|Jiawei Zhao et.al.|[2411.01565](http://arxiv.org/abs/2411.01565)|**[link](https://github.com/weiyezhimeng/sql-injection-jailbreak)**|
+|**2025-02-28**|**SQL Injection Jailbreak: A Structural Disaster of Large Language Models**|Jiawei Zhao et.al.|[2411.01565](http://arxiv.org/abs/2411.01565)|**[link](https://github.com/weiyezhimeng/sql-injection-jailbreak)**|
 |**2024-11-03**|**AURA: Amplifying Understanding, Resilience, and Awareness for Responsible AI Content Work**|Alice Qian Zhang et.al.|[2411.01426](http://arxiv.org/abs/2411.01426)|null|
 |**2024-12-11**|**Plentiful Jailbreaks with String Compositions**|Brian R. Y. Huang et.al.|[2411.01084](http://arxiv.org/abs/2411.01084)|null|
 |**2025-02-18**|**Emoji Attack: Enhancing Jailbreak Attacks Against Judge LLM Detection**|Zhipeng Wei et.al.|[2411.01077](http://arxiv.org/abs/2411.01077)|**[link](https://github.com/zhipeng-wei/EmojiAttack)**|
@@ -246,7 +246,7 @@
 |**2024-10-25**|**RobustKV: Defending Large Language Models against Jailbreak Attacks via KV Eviction**|Tanqiu Jiang et.al.|[2410.19937](http://arxiv.org/abs/2410.19937)|null|
 |**2024-10-25**|**An Auditing Test To Detect Behavioral Shift in Language Models**|Leo Richter et.al.|[2410.19406](http://arxiv.org/abs/2410.19406)|**[link](https://github.com/richterleo/Auditing_Test_for_LMs)**|
 |**2024-10-25**|**Iterative Self-Tuning LLMs for Enhanced Jailbreaking Capabilities**|Chung-En Sun et.al.|[2410.18469](http://arxiv.org/abs/2410.18469)|**[link](https://github.com/sunchungen/adv-llm)**|
-|**2024-10-23**|**Towards Understanding the Fragility of Multilingual LLMs against Fine-Tuning Attacks**|Samuele Poppi et.al.|[2410.18210](http://arxiv.org/abs/2410.18210)|null|
+|**2025-02-27**|**Towards Understanding the Fragility of Multilingual LLMs against Fine-Tuning Attacks**|Samuele Poppi et.al.|[2410.18210](http://arxiv.org/abs/2410.18210)|null|
 |**2025-02-09**|**Dynamic Guided and Domain Applicable Safeguards for Enhanced Security in Large Language Models**|Weidi Luo et.al.|[2410.17922](http://arxiv.org/abs/2410.17922)|**[link](https://github.com/idea-xl/g4d)**|
 |**2024-10-22**|**LLM-Assisted Red Teaming of Diffusion Models through "Failures Are Fated, But Can Be Faded"**|Som Sagar et.al.|[2410.16738](http://arxiv.org/abs/2410.16738)|null|
 |**2024-11-02**|**Bayesian scaling laws for in-context learning**|Aryaman Arora et.al.|[2410.16531](http://arxiv.org/abs/2410.16531)|**[link](https://github.com/aryamanarora/bayesian-laws-icl)**|
@@ -807,7 +807,7 @@
 |**2017-12-02**|**Recurrent Neural Network Language Models for Open Vocabulary Event-Level Cyber Anomaly Detection**|Aaron Tuor et.al.|[1712.00557](http://arxiv.org/abs/1712.00557)|**[link](https://github.com/pnnl/safekit)**|
 |**2015-04-07**|**Security Toolbox for Detecting Novel and Sophisticated Android Malware**|Benjamin Holland et.al.|[1504.01693](http://arxiv.org/abs/1504.01693)|null|
 
-<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
