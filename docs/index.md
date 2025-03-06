@@ -14,12 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**Improving LLM Safety Alignment with Dual-Objective Optimization**|Xuandong Zhao et.al.|[2503.03710](http://arxiv.org/abs/2503.03710)|null|
+|**2025-03-05**|**CURVALID: Geometrically-guided Adversarial Prompt Detection**|Canaan Yung et.al.|[2503.03502](http://arxiv.org/abs/2503.03502)|null|
 |**2025-03-04**|**LLM-Safety Evaluations Lack Robustness**|Tim Beyer et.al.|[2503.02574](http://arxiv.org/abs/2503.02574)|null|
 |**2025-03-02**|**Unnatural Languages Are Not Bugs but Features for LLMs**|Keyu Duan et.al.|[2503.01926](http://arxiv.org/abs/2503.01926)|null|
 |**2025-02-28**|**UDora: A Unified Red Teaming Framework against LLM Agents by Dynamically Hijacking Their Own Reasoning**|Jiawei Zhang et.al.|[2503.01908](http://arxiv.org/abs/2503.01908)|null|
 |**2025-02-25**|**Guiding not Forcing: Enhancing the Transferability of Jailbreaking Attacks on LLMs via Removing Superfluous Constraints**|Junxiao Yang et.al.|[2503.01865](http://arxiv.org/abs/2503.01865)|null|
 |**2025-03-03**|**Jailbreaking Safeguarded Text-to-Image Models via Large Language Models**|Zhengyuan Jiang et.al.|[2503.01839](http://arxiv.org/abs/2503.01839)|null|
-|**2025-03-03**|**Building Safe GenAI Applications: An End-to-End Overview of Red Teaming for Large Language Models**|Alberto Purpura et.al.|[2503.01742](http://arxiv.org/abs/2503.01742)|null|
+|**2025-03-05**|**Building Safe GenAI Applications: An End-to-End Overview of Red Teaming for Large Language Models**|Alberto Purpura et.al.|[2503.01742](http://arxiv.org/abs/2503.01742)|null|
 |**2025-03-03**|**Jailbreaking Generative AI: Empowering Novices to Conduct Phishing Attacks**|Rina Mishra et.al.|[2503.01395](http://arxiv.org/abs/2503.01395)|null|
 |**2025-02-28**|**À la recherche du sens perdu: your favourite LLM might have more to say than you can understand**|K. O. T. Erziev et.al.|[2503.00224](http://arxiv.org/abs/2503.00224)|**[link](https://github.com/l3g5/llm-hidden-meanings)**|
 |**2025-02-28**|**Steering Dialogue Dynamics for Robustness against Multi-turn Jailbreaking Attacks**|Hanjiang Hu et.al.|[2503.00187](http://arxiv.org/abs/2503.00187)|**[link](https://github.com/hanjianghu/nbf-llm)**|
@@ -394,7 +396,7 @@ layout: default
 |**2024-07-23**|**RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent**|Huiyu Xu et.al.|[2407.16667](http://arxiv.org/abs/2407.16667)|null|
 |**2024-10-26**|**Course-Correction: Safety Alignment Using Synthetic Preferences**|Rongwu Xu et.al.|[2407.16637](http://arxiv.org/abs/2407.16637)|**[link](https://github.com/pillowsofwind/course-correction)**|
 |**2024-07-23**|**PrimeGuard: Safe and Helpful LLMs through Tuning-Free Routing**|Blazej Manczak et.al.|[2407.16318](http://arxiv.org/abs/2407.16318)|**[link](https://github.com/dynamofl/primeguard)**|
-|**2025-02-17**|**LLMs can be Dangerous Reasoners: Analyzing-based Jailbreak Attack on Large Language Models**|Shi Lin et.al.|[2407.16205](http://arxiv.org/abs/2407.16205)|**[link](https://github.com/theshi-1128/ABJ-Attack)**|
+|**2025-03-05**|**LLMs can be Dangerous Reasoners: Analyzing-based Jailbreak Attack on Large Language Models**|Shi Lin et.al.|[2407.16205](http://arxiv.org/abs/2407.16205)|**[link](https://github.com/theshi-1128/ABJ-Attack)**|
 |**2024-07-26**|**Breaking the Global North Stereotype: A Global South-centric Benchmark Dataset for Auditing and Mitigating Biases in Facial Recognition Systems**|Siddharth D Jaiswal et.al.|[2407.15810](http://arxiv.org/abs/2407.15810)|null|
 |**2024-08-21**|**Latent Adversarial Training Improves Robustness to Persistent Harmful Behaviors in LLMs**|Abhay Sheshadri et.al.|[2407.15549](http://arxiv.org/abs/2407.15549)|**[link](https://github.com/aengusl/latent-adversarial-training)**|
 |**2024-12-16**|**Failures to Find Transferable Image Jailbreaks Between Vision-Language Models**|Rylan Schaeffer et.al.|[2407.15211](http://arxiv.org/abs/2407.15211)|null|
