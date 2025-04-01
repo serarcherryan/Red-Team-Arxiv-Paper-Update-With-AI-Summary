@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.31
+## Updated on 2025.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -39,7 +39,7 @@
 |**2025-03-19**|**MMDT: Decoding the Trustworthiness and Safety of Multimodal Foundation Models**|Chejian Xu et.al.|[2503.14827](http://arxiv.org/abs/2503.14827)|null|
 |**2025-03-17**|**MirrorGuard: Adaptive Defense Against Jailbreaks via Entropy-Guided Mirror Crafting**|Rui Pu et.al.|[2503.12931](http://arxiv.org/abs/2503.12931)|null|
 |**2025-03-16**|**Augmented Adversarial Trigger Learning**|Zhe Wang et.al.|[2503.12339](http://arxiv.org/abs/2503.12339)|null|
-|**2025-03-14**|**A Framework for Evaluating Emerging Cyberattack Capabilities of AI**|Mikel Rodriguez et.al.|[2503.11917](http://arxiv.org/abs/2503.11917)|null|
+|**2025-03-31**|**A Framework for Evaluating Emerging Cyberattack Capabilities of AI**|Mikel Rodriguez et.al.|[2503.11917](http://arxiv.org/abs/2503.11917)|null|
 |**2025-03-14**|**Making Every Step Effective: Jailbreaking Large Vision-Language Models Through Hierarchical KV Equalization**|Shuyang Hao et.al.|[2503.11750](http://arxiv.org/abs/2503.11750)|null|
 |**2025-03-14**|**Tit-for-Tat: Safeguarding Large Vision-Language Models Against Jailbreak Attacks via Adversarial Defense**|Shuyang Hao et.al.|[2503.11619](http://arxiv.org/abs/2503.11619)|null|
 |**2025-03-14**|**Align in Depth: Defending Jailbreak Attacks via Progressive Answer Detoxification**|Yingjie Zhang et.al.|[2503.11185](http://arxiv.org/abs/2503.11185)|null|
@@ -868,7 +868,7 @@
 |**2017-12-02**|**Recurrent Neural Network Language Models for Open Vocabulary Event-Level Cyber Anomaly Detection**|Aaron Tuor et.al.|[1712.00557](http://arxiv.org/abs/1712.00557)|**[link](https://github.com/pnnl/safekit)**|
 |**2015-04-07**|**Security Toolbox for Detecting Novel and Sophisticated Android Malware**|Benjamin Holland et.al.|[1504.01693](http://arxiv.org/abs/1504.01693)|null|
 
-<p align=right>(<a href=#updated-on-20250331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

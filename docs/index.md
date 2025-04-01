@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.31
+## Updated on 2025.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Red Teaming
@@ -36,7 +36,7 @@ layout: default
 |**2025-03-19**|**MMDT: Decoding the Trustworthiness and Safety of Multimodal Foundation Models**|Chejian Xu et.al.|[2503.14827](http://arxiv.org/abs/2503.14827)|null|
 |**2025-03-17**|**MirrorGuard: Adaptive Defense Against Jailbreaks via Entropy-Guided Mirror Crafting**|Rui Pu et.al.|[2503.12931](http://arxiv.org/abs/2503.12931)|null|
 |**2025-03-16**|**Augmented Adversarial Trigger Learning**|Zhe Wang et.al.|[2503.12339](http://arxiv.org/abs/2503.12339)|null|
-|**2025-03-14**|**A Framework for Evaluating Emerging Cyberattack Capabilities of AI**|Mikel Rodriguez et.al.|[2503.11917](http://arxiv.org/abs/2503.11917)|null|
+|**2025-03-31**|**A Framework for Evaluating Emerging Cyberattack Capabilities of AI**|Mikel Rodriguez et.al.|[2503.11917](http://arxiv.org/abs/2503.11917)|null|
 |**2025-03-14**|**Making Every Step Effective: Jailbreaking Large Vision-Language Models Through Hierarchical KV Equalization**|Shuyang Hao et.al.|[2503.11750](http://arxiv.org/abs/2503.11750)|null|
 |**2025-03-14**|**Tit-for-Tat: Safeguarding Large Vision-Language Models Against Jailbreak Attacks via Adversarial Defense**|Shuyang Hao et.al.|[2503.11619](http://arxiv.org/abs/2503.11619)|null|
 |**2025-03-14**|**Align in Depth: Defending Jailbreak Attacks via Progressive Answer Detoxification**|Yingjie Zhang et.al.|[2503.11185](http://arxiv.org/abs/2503.11185)|null|
