@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.08
+## Updated on 2025.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,7 @@
 |---|---|---|---|---|
 |**2025-04-07**|**How to evaluate control measures for LLM agents? A trajectory from today to superintelligence**|Tomek Korbak et.al.|[2504.05259](http://arxiv.org/abs/2504.05259)|null|
 |**2025-04-07**|**A Domain-Based Taxonomy of Jailbreak Vulnerabilities in Large Language Models**|Carlos Peláez-González et.al.|[2504.04976](http://arxiv.org/abs/2504.04976)|null|
-|**2025-04-07**|**Beyond Single-Turn: A Survey on Multi-Turn Interactions with Large Language Models**|Yubo Li et.al.|[2504.04717](http://arxiv.org/abs/2504.04717)|null|
+|**2025-04-08**|**Beyond Single-Turn: A Survey on Multi-Turn Interactions with Large Language Models**|Yubo Li et.al.|[2504.04717](http://arxiv.org/abs/2504.04717)|null|
 |**2025-04-06**|**StyleRec: A Benchmark Dataset for Prompt Recovery in Writing Style Transformation**|Shenyang Liu et.al.|[2504.04373](http://arxiv.org/abs/2504.04373)|null|
 |**2025-04-03**|**JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model**|Yi Nian et.al.|[2504.03770](http://arxiv.org/abs/2504.03770)|null|
 |**2025-04-04**|**RWKVTTS: Yet another TTS based on RWKV-7**|Lin yueyu et.al.|[2504.03289](http://arxiv.org/abs/2504.03289)|null|
@@ -885,7 +885,7 @@
 |**2017-12-02**|**Recurrent Neural Network Language Models for Open Vocabulary Event-Level Cyber Anomaly Detection**|Aaron Tuor et.al.|[1712.00557](http://arxiv.org/abs/1712.00557)|**[link](https://github.com/pnnl/safekit)**|
 |**2015-04-07**|**Security Toolbox for Detecting Novel and Sophisticated Android Malware**|Benjamin Holland et.al.|[1504.01693](http://arxiv.org/abs/1504.01693)|null|
 
-<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
