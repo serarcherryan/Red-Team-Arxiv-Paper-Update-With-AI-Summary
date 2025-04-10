@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**Bypassing Safety Guardrails in LLMs Using Humor**|Pedro Cisneros-Velarde et.al.|[2504.06577](http://arxiv.org/abs/2504.06577)|null|
 |**2025-04-08**|**Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking**|Junxi Chen et.al.|[2504.05838](http://arxiv.org/abs/2504.05838)|null|
 |**2025-04-08**|**Sugar-Coated Poison: Benign Generation Unlocks LLM Jailbreaking**|Yu-Hang Wu et.al.|[2504.05652](http://arxiv.org/abs/2504.05652)|null|
 |**2025-04-07**|**How to evaluate control measures for LLM agents? A trajectory from today to superintelligence**|Tomek Korbak et.al.|[2504.05259](http://arxiv.org/abs/2504.05259)|null|
@@ -68,6 +69,7 @@
 |**2025-03-13**|**Red Teaming Contemporary AI Models: Insights from Spanish and Basque Perspectives**|Miguel Romero-Arjona et.al.|[2503.10192](http://arxiv.org/abs/2503.10192)|null|
 |**2025-03-12**|**Probing Latent Subspaces in LLM for AI Security: Identifying and Manipulating Adversarial States**|Xin Wei Chia et.al.|[2503.09066](http://arxiv.org/abs/2503.09066)|null|
 |**2025-03-12**|**JBFuzz: Jailbreaking LLMs Efficiently and Effectively Using Fuzzing**|Vasudev Gohil et.al.|[2503.08990](http://arxiv.org/abs/2503.08990)|null|
+|**2025-04-08**|**Randomness, Not Representation: The Unreliability of Evaluating Cultural Alignment in LLMs**|Ariba Khan et.al.|[2503.08688](http://arxiv.org/abs/2503.08688)|**[link](https://github.com/ariba-k/llm-cultural-alignment-evaluation)**|
 |**2025-03-11**|**Dialogue Injection Attack: Jailbreaking LLMs through Context Manipulation**|Wenlong Meng et.al.|[2503.08195](http://arxiv.org/abs/2503.08195)|**[link](https://github.com/meng-wenlong/DIA)**|
 |**2025-03-10**|**Safety Guardrails for LLM-Enabled Robots**|Zachary Ravichandran et.al.|[2503.07885](http://arxiv.org/abs/2503.07885)|null|
 |**2025-03-10**|**Utilizing Jailbreak Probability to Attack and Safeguard Multimodal LLMs**|Wenzhuo Xu et.al.|[2503.06989](http://arxiv.org/abs/2503.06989)|null|
