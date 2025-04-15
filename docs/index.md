@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.14
+## Updated on 2025.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Red Teaming
@@ -171,7 +171,7 @@ layout: default
 |**2025-02-03**|**Eliciting Language Model Behaviors with Investigator Agents**|Xiang Lisa Li et.al.|[2502.01236](http://arxiv.org/abs/2502.01236)|null|
 |**2025-02-03**|**Jailbreaking with Universal Multi-Prompts**|Yu-Ling Hsu et.al.|[2502.01154](http://arxiv.org/abs/2502.01154)|**[link](https://github.com/ntuaislab/jump)**|
 |**2025-02-02**|**Blink of an eye: a simple theory for feature localization in generative models**|Marvin Li et.al.|[2502.00921](http://arxiv.org/abs/2502.00921)|null|
-|**2025-02-02**|**AgentBreeder: Mitigating the AI Safety Impact of Multi-Agent Scaffolds**|J Rosser et.al.|[2502.00757](http://arxiv.org/abs/2502.00757)|**[link](https://github.com/J-Rosser-UK/AgentBreeder)**|
+|**2025-04-14**|**AgentBreeder: Mitigating the AI Safety Impact of Multi-Agent Scaffolds via Self-Improvement**|J Rosser et.al.|[2502.00757](http://arxiv.org/abs/2502.00757)|**[link](https://github.com/J-Rosser-UK/AgentBreeder)**|
 |**2025-02-13**|**`Do as I say not as I do': A Semi-Automated Approach for Jailbreak Prompt Attack against Multimodal LLMs**|Chun Wai Chiu et.al.|[2502.00735](http://arxiv.org/abs/2502.00735)|null|
 |**2025-02-02**|**"I am bad": Interpreting Stealthy, Universal and Robust Audio Jailbreaks in Audio-Language Models**|Isha Gupta et.al.|[2502.00718](http://arxiv.org/abs/2502.00718)|null|
 |**2025-02-02**|**Safety Alignment Depth in Large Language Models: A Markov Chain Perspective**|Ching-Chia Kao et.al.|[2502.00669](http://arxiv.org/abs/2502.00669)|null|
@@ -247,7 +247,7 @@ layout: default
 |**2025-02-17**|**Separate the Wheat from the Chaff: A Post-Hoc Approach to Safety Re-Alignment for Fine-Tuned Language Models**|Di Wu et.al.|[2412.11041](http://arxiv.org/abs/2412.11041)|null|
 |**2024-12-14**|**IntelEX: A LLM-driven Attack-level Threat Intelligence Extraction Framework**|Ming Xu et.al.|[2412.10872](http://arxiv.org/abs/2412.10872)|null|
 |**2024-12-14**|**Towards Action Hijacking of Large Language Model-based Agent**|Yuyang Zhang et.al.|[2412.10807](http://arxiv.org/abs/2412.10807)|null|
-|**2024-12-10**|**Look Before You Leap: Enhancing Attention and Vigilance Regarding Harmful Content with GuidelineLLM**|Shaoqing Zhang et.al.|[2412.10423](http://arxiv.org/abs/2412.10423)|**[link](https://github.com/sqzhang-lazy/guidelinellm)**|
+|**2025-04-14**|**Look Before You Leap: Enhancing Attention and Vigilance Regarding Harmful Content with GuidelineLLM**|Shaoqing Zhang et.al.|[2412.10423](http://arxiv.org/abs/2412.10423)|**[link](https://github.com/sqzhang-lazy/guidelinellm)**|
 |**2024-12-13**|**AdvPrefix: An Objective for Nuanced LLM Jailbreaks**|Sicheng Zhu et.al.|[2412.10321](http://arxiv.org/abs/2412.10321)|**[link](https://github.com/facebookresearch/jailbreak-objectives)**|
 |**2025-04-03**|**AI red-teaming is a sociotechnical challenge: on values, labor, and harms**|Tarleton Gillespie et.al.|[2412.09751](http://arxiv.org/abs/2412.09751)|null|
 |**2025-02-08**|**Obfuscated Activations Bypass LLM Latent-Space Defenses**|Luke Bailey et.al.|[2412.09565](http://arxiv.org/abs/2412.09565)|null|
