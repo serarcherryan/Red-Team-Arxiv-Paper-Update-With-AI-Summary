@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.15
+## Updated on 2025.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Red Teaming
@@ -34,7 +34,7 @@ layout: default
 |**2025-04-07**|**A Domain-Based Taxonomy of Jailbreak Vulnerabilities in Large Language Models**|Carlos Peláez-González et.al.|[2504.04976](http://arxiv.org/abs/2504.04976)|null|
 |**2025-04-08**|**Beyond Single-Turn: A Survey on Multi-Turn Interactions with Large Language Models**|Yubo Li et.al.|[2504.04717](http://arxiv.org/abs/2504.04717)|null|
 |**2025-04-06**|**StyleRec: A Benchmark Dataset for Prompt Recovery in Writing Style Transformation**|Shenyang Liu et.al.|[2504.04373](http://arxiv.org/abs/2504.04373)|null|
-|**2025-04-08**|**JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model**|Yi Nian et.al.|[2504.03770](http://arxiv.org/abs/2504.03770)|null|
+|**2025-04-08**|**JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model**|Yi Nian et.al.|[2504.03770](http://arxiv.org/abs/2504.03770)|**[link](https://github.com/ShenzheZhu/JailDAM)**|
 |**2025-04-04**|**RWKVTTS: Yet another TTS based on RWKV-7**|Lin yueyu et.al.|[2504.03289](http://arxiv.org/abs/2504.03289)|**[link](https://github.com/yynil/rwkvtts)**|
 |**2025-04-04**|**Multi-lingual Multi-turn Automated Red Teaming for LLMs**|Abhishek Singhania et.al.|[2504.03174](http://arxiv.org/abs/2504.03174)|null|
 |**2025-04-03**|**More is Less: The Pitfalls of Multi-Model Synthetic Preference Data in DPO Safety Alignment**|Yifan Wang et.al.|[2504.02193](http://arxiv.org/abs/2504.02193)|null|
