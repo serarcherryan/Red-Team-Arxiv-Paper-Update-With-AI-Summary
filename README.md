@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Helping Big Language Models Protect Themselves: An Enhanced Filtering and Summarization System**|Sheikh Samit Muhaimin et.al.|[2505.01315](http://arxiv.org/abs/2505.01315)|null|
+|**2025-05-01**|**OET: Optimization-based prompt injection Evaluation Toolkit**|Jinsheng Pan et.al.|[2505.00843](http://arxiv.org/abs/2505.00843)|null|
 |**2025-05-01**|**Red Teaming Large Language Models for Healthcare**|Vahid Balazadeh et.al.|[2505.00467](http://arxiv.org/abs/2505.00467)|null|
 |**2025-04-29**|**HyPerAlign: Hypotheses-driven Personalized Alignment**|Cristina Garbacea et.al.|[2505.00038](http://arxiv.org/abs/2505.00038)|null|
 |**2025-04-21**|**Jailbreak Detection in Clinical Training LLMs Using Feature-Based Predictive Models**|Tri Nguyen et.al.|[2505.00010](http://arxiv.org/abs/2505.00010)|null|
