@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**Red Teaming the Mind of the Machine: A Systematic Evaluation of Prompt Injection and Jailbreak Vulnerabilities in LLMs**|Chetan Pathade et.al.|[2505.04806](http://arxiv.org/abs/2505.04806)|null|
 |**2025-05-07**|**The Aloe Family Recipe for Open and Specialized Healthcare LLMs**|Dario Garcia-Gasulla et.al.|[2505.04388](http://arxiv.org/abs/2505.04388)|null|
 |**2025-05-07**|**Unmasking the Canvas: A Dynamic Benchmark for Image Generation Jailbreaking and LLM Content Safety**|Variath Madhupal Gautham Nair et.al.|[2505.04146](http://arxiv.org/abs/2505.04146)|null|
 |**2025-05-06**|**LlamaFirewall: An open source guardrail system for building secure AI agents**|Sahana Chennabasappa et.al.|[2505.03574](http://arxiv.org/abs/2505.03574)|null|
@@ -28,7 +29,7 @@ layout: default
 |**2025-04-30**|**Hoist with His Own Petard: Inducing Guardrails to Facilitate Denial-of-Service Attacks on Retrieval-Augmented Generation of LLMs**|Pan Suo et.al.|[2504.21680](http://arxiv.org/abs/2504.21680)|null|
 |**2025-04-30**|**The Dual Power of Interpretable Token Embeddings: Jailbreaking Attacks and Defenses for Diffusion Model Unlearning**|Siyi Chen et.al.|[2504.21307](http://arxiv.org/abs/2504.21307)|null|
 |**2025-04-28**|**Prefill-Based Jailbreak: A Novel Approach of Bypassing LLM Safety Boundary**|Yakai Li et.al.|[2504.21038](http://arxiv.org/abs/2504.21038)|null|
-|**2025-04-29**|**AegisLLM: Scaling Agentic Systems for Self-Reflective Defense in LLM Security**|Zikui Cai et.al.|[2504.20965](http://arxiv.org/abs/2504.20965)|null|
+|**2025-04-29**|**AegisLLM: Scaling Agentic Systems for Self-Reflective Defense in LLM Security**|Zikui Cai et.al.|[2504.20965](http://arxiv.org/abs/2504.20965)|**[link](https://github.com/zikuicai/aegisllm)**|
 |**2025-04-29**|**When Testing AI Tests Us: Safeguarding Mental Health on the Digital Frontlines**|Sachin R. Pendse et.al.|[2504.20910](http://arxiv.org/abs/2504.20910)|null|
 |**2025-04-29**|**Inception: Jailbreak the Memory Mechanism of Text-to-Image Generation Systems**|Shiqian Zhao et.al.|[2504.20376](http://arxiv.org/abs/2504.20376)|null|
 |**2025-04-25**|**Understanding and Mitigating Risks of Generative AI in Financial Services**|Sebastian Gehrmann et.al.|[2504.20086](http://arxiv.org/abs/2504.20086)|null|
@@ -36,7 +37,7 @@ layout: default
 |**2025-04-28**|**$\texttt{SAGE}$ : A Generic Framework for LLM Safety Evaluation**|Madhur Jindal et.al.|[2504.19674](http://arxiv.org/abs/2504.19674)|**[link](https://github.com/Madhur-1/SageLLMSafetyEval)**|
 |**2025-04-29**|**Security Steerability is All You Need**|Itay Hazan et.al.|[2504.19521](http://arxiv.org/abs/2504.19521)|null|
 |**2025-04-28**|**JailbreaksOverTime: Detecting Jailbreak Attacks Under Distribution Shift**|Julien Piet et.al.|[2504.19440](http://arxiv.org/abs/2504.19440)|null|
-|**2025-04-26**|**Graph of Attacks: Improved Black-Box and Interpretable Jailbreaks for LLMs**|Mohammad Akbar-Tajari et.al.|[2504.19019](http://arxiv.org/abs/2504.19019)|null|
+|**2025-04-26**|**Graph of Attacks: Improved Black-Box and Interpretable Jailbreaks for LLMs**|Mohammad Akbar-Tajari et.al.|[2504.19019](http://arxiv.org/abs/2504.19019)|**[link](https://github.com/goat-pydev/graph_of_attacks)**|
 |**2025-04-21**|**DualBreach: Efficient Dual-Jailbreaking via Target-Driven Initialization and Multi-Target Optimization**|Xinzhe Huang et.al.|[2504.18564](http://arxiv.org/abs/2504.18564)|null|
 |**2025-04-25**|**RAG LLMs are Not Safer: A Safety Analysis of Retrieval-Augmented Generation for Large Language Models**|Bang An et.al.|[2504.18041](http://arxiv.org/abs/2504.18041)|null|
 |**2025-04-23**|**Amplified Vulnerabilities: Structured Jailbreak Attacks on LLM-based Multi-Agent Debate**|Senmao Qi et.al.|[2504.16489](http://arxiv.org/abs/2504.16489)|null|
@@ -55,7 +56,7 @@ layout: default
 |**2025-04-15**|**Token-Level Constraint Boundary Search for Jailbreaking Text-to-Image Models**|Jiangtao Liu et.al.|[2504.11106](http://arxiv.org/abs/2504.11106)|null|
 |**2025-04-14**|**The Jailbreak Tax: How Useful are Your Jailbreak Outputs?**|Kristina Nikolić et.al.|[2504.10694](http://arxiv.org/abs/2504.10694)|**[link](https://github.com/ethz-spylab/jailbreak-tax)**|
 |**2025-04-29**|**Demo: ViolentUTF as An Accessible Platform for Generative AI Red Teaming**|Tam n. Nguyen et.al.|[2504.10603](http://arxiv.org/abs/2504.10603)|null|
-|**2025-04-16**|**LLM Unlearning Reveals a Stronger-Than-Expected Coreset Effect in Current Benchmarks**|Soumyadeep Pal et.al.|[2504.10185](http://arxiv.org/abs/2504.10185)|null|
+|**2025-04-16**|**LLM Unlearning Reveals a Stronger-Than-Expected Coreset Effect in Current Benchmarks**|Soumyadeep Pal et.al.|[2504.10185](http://arxiv.org/abs/2504.10185)|**[link](https://github.com/optml-group/mu-coreset)**|
 |**2025-04-14**|**RealSafe-R1: Safety-Aligned DeepSeek-R1 without Compromising Reasoning Capability**|Yichi Zhang et.al.|[2504.10081](http://arxiv.org/abs/2504.10081)|null|
 |**2025-04-13**|**The Structural Safety Generalization Problem**|Julius Broomfield et.al.|[2504.09712](http://arxiv.org/abs/2504.09712)|**[link](https://github.com/juliusbroomfield/the-ssg-problem)**|
 |**2025-05-07**|**Mitigating Many-Shot Jailbreaking**|Christopher M. Ackerman et.al.|[2504.09604](http://arxiv.org/abs/2504.09604)|null|
@@ -70,7 +71,7 @@ layout: default
 |**2025-03-20**|**How Robust Are Router-LLMs? Analysis of the Fragility of LLM Routing Capabilities**|Aly M. Kassem et.al.|[2504.07113](http://arxiv.org/abs/2504.07113)|null|
 |**2025-04-09**|**Bypassing Safety Guardrails in LLMs Using Humor**|Pedro Cisneros-Velarde et.al.|[2504.06577](http://arxiv.org/abs/2504.06577)|null|
 |**2025-04-08**|**Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking**|Junxi Chen et.al.|[2504.05838](http://arxiv.org/abs/2504.05838)|**[link](https://github.com/fhdnskfbeuv/attackipa)**|
-|**2025-04-08**|**Sugar-Coated Poison: Benign Generation Unlocks LLM Jailbreaking**|Yu-Hang Wu et.al.|[2504.05652](http://arxiv.org/abs/2504.05652)|**[link](https://github.com/wuyuhang11/chemotherapy)**|
+|**2025-04-08**|**Sugar-Coated Poison: Benign Generation Unlocks LLM Jailbreaking**|Yu-Hang Wu et.al.|[2504.05652](http://arxiv.org/abs/2504.05652)|null|
 |**2025-04-07**|**How to evaluate control measures for LLM agents? A trajectory from today to superintelligence**|Tomek Korbak et.al.|[2504.05259](http://arxiv.org/abs/2504.05259)|null|
 |**2025-04-07**|**A Domain-Based Taxonomy of Jailbreak Vulnerabilities in Large Language Models**|Carlos Peláez-González et.al.|[2504.04976](http://arxiv.org/abs/2504.04976)|null|
 |**2025-04-08**|**Beyond Single-Turn: A Survey on Multi-Turn Interactions with Large Language Models**|Yubo Li et.al.|[2504.04717](http://arxiv.org/abs/2504.04717)|null|
