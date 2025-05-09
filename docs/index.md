@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.08
+## Updated on 2025.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Red Teaming
@@ -389,7 +389,7 @@ layout: default
 |**2024-11-03**|**Boosting Jailbreak Transferability for Large Language Models**|Hanqing Liu et.al.|[2410.15645](http://arxiv.org/abs/2410.15645)|**[link](https://github.com/HqingLiu/SI-GCG)**|
 |**2024-10-21**|**SMILES-Prompting: A Novel Approach to LLM Jailbreak Attacks in Chemical Synthesis**|Aidan Wong et.al.|[2410.15641](http://arxiv.org/abs/2410.15641)|**[link](https://github.com/IDEA-XL/ChemSafety)**|
 |**2024-10-20**|**Faster-GCG: Efficient Discrete Optimization Jailbreak Attacks against Aligned Large Language Models**|Xiao Li et.al.|[2410.15362](http://arxiv.org/abs/2410.15362)|null|
-|**2024-10-20**|**Jailbreaking and Mitigation of Vulnerabilities in Large Language Models**|Benji Peng et.al.|[2410.15236](http://arxiv.org/abs/2410.15236)|null|
+|**2025-05-08**|**Jailbreaking and Mitigation of Vulnerabilities in Large Language Models**|Benji Peng et.al.|[2410.15236](http://arxiv.org/abs/2410.15236)|null|
 |**2024-10-16**|**SoK: Prompt Hacking of Large Language Models**|Baha Rababah et.al.|[2410.13901](http://arxiv.org/abs/2410.13901)|null|
 |**2024-10-15**|**A Formal Framework for Assessing and Mitigating Emergent Security Risks in Generative AI Models: Bridging Theory and Dynamic Risk Mitigation**|Aviral Srivastava et.al.|[2410.13897](http://arxiv.org/abs/2410.13897)|null|
 |**2024-10-21**|**Refusal-Trained LLMs Are Easily Jailbroken As Browser Agents**|Priyanshu Kumar et.al.|[2410.13886](http://arxiv.org/abs/2410.13886)|**[link](https://github.com/scaleapi/browser-art)**|
