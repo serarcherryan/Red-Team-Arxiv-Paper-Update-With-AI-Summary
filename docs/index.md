@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**Scalable Defense against In-the-wild Jailbreaking Attacks with Safety Context Retrieval**|Taiye Chen et.al.|[2505.15753](http://arxiv.org/abs/2505.15753)|null|
+|**2025-05-21**|**Alignment Under Pressure: The Case for Informed Adversaries When Evaluating LLM Defenses**|Xiaoxue Yang et.al.|[2505.15738](http://arxiv.org/abs/2505.15738)|null|
+|**2025-05-21**|**Silent Leaks: Implicit Knowledge Extraction Attack on RAG Systems through Benign Queries**|Yuhao Wang et.al.|[2505.15420](http://arxiv.org/abs/2505.15420)|null|
+|**2025-05-21**|**Audio Jailbreak: An Open Comprehensive Benchmark for Jailbreaking Large Audio-Language Models**|Zirui Song et.al.|[2505.15406](http://arxiv.org/abs/2505.15406)|**[link](https://github.com/mbzuai-nlp/audiojailbreak)**|
+|**2025-05-20**|**Soft Prompts for Evaluation: Measuring Conditional Distance of Capabilities**|Ross Nordby et.al.|[2505.14943](http://arxiv.org/abs/2505.14943)|null|
 |**2025-05-20**|**SAFEPATH: Preventing Harmful Reasoning in Chain-of-Thought via Early Alignment**|Wonje Jeung et.al.|[2505.14667](http://arxiv.org/abs/2505.14667)|null|
 |**2025-05-20**|**sudoLLM : On Multi-role Alignment of Language Models**|Soumadeep Saha et.al.|[2505.14607](http://arxiv.org/abs/2505.14607)|null|
 |**2025-05-20**|**Breaking Bad Tokens: Detoxification of LLMs Using Sparse Autoencoders**|Agam Goyal et.al.|[2505.14536](http://arxiv.org/abs/2505.14536)|null|
@@ -950,7 +955,7 @@ layout: default
 |**2022-08-16**|**CTI4AI: Threat Intelligence Generation and Sharing after Red Teaming AI Models**|Chuyen Nguyen et.al.|[2208.07476](http://arxiv.org/abs/2208.07476)|null|
 |**2022-08-12**|**PRIVEE: A Visual Analytic Workflow for Proactive Privacy Risk Inspection of Open Data**|Kaustav Bhattacharjee et.al.|[2208.06481](http://arxiv.org/abs/2208.06481)|null|
 |**2022-07-30**|**'PeriHack': Designing a Serious Game for Cybersecurity Awareness**|Roberto Dillon et.al.|[2208.00235](http://arxiv.org/abs/2208.00235)|null|
-|**2023-07-27**|**Gotham Testbed: a Reproducible IoT Testbed for Security Experiments and Dataset Generation**|Xabier Sáez-de-Cámara et.al.|[2207.13981](http://arxiv.org/abs/2207.13981)|**[link](https://github.com/ColinIanKing/stress-ng)**|
+|**2023-07-27**|**Gotham Testbed: a Reproducible IoT Testbed for Security Experiments and Dataset Generation**|Xabier Sáez-de-Cámara et.al.|[2207.13981](http://arxiv.org/abs/2207.13981)|**[link](https://github.com/xsaga/gotham-iot-testbed)**|
 |**2022-02-07**|**Red Teaming Language Models with Language Models**|Ethan Perez et.al.|[2202.03286](http://arxiv.org/abs/2202.03286)|null|
 |**2021-12-22**|**Catch Me If You GAN: Using Artificial Intelligence for Fake Log Generation**|Christian Toemmel et.al.|[2112.12006](http://arxiv.org/abs/2112.12006)|null|
 |**2021-12-18**|**Dynamic Defender-Attacker Blotto Game**|Daigo Shishika et.al.|[2112.09890](http://arxiv.org/abs/2112.09890)|null|
