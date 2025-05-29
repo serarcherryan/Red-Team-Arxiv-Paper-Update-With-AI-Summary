@@ -7,23 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.28
+## Updated on 2025.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Red Teaming
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-27**|**Breaking the Ceiling: Exploring the Potential of Jailbreak Attacks through Expanding Strategy Space**|Yao Huang et.al.|[2505.21277](http://arxiv.org/abs/2505.21277)|null|
+|**2025-05-28**|**Breaking the Ceiling: Exploring the Potential of Jailbreak Attacks through Expanding Strategy Space**|Yao Huang et.al.|[2505.21277](http://arxiv.org/abs/2505.21277)|null|
 |**2025-05-27**|**Red-Teaming Text-to-Image Systems by Rule-based Preference Modeling**|Yichuan Cao et.al.|[2505.21074](http://arxiv.org/abs/2505.21074)|null|
 |**2025-05-27**|**Improved Representation Steering for Language Models**|Zhengxuan Wu et.al.|[2505.20809](http://arxiv.org/abs/2505.20809)|null|
 |**2025-05-22**|**Guiding Giants: Lightweight Controllers for Weighted Activation Steering in LLMs**|Amr Hegazy et.al.|[2505.20309](http://arxiv.org/abs/2505.20309)|null|
-|**2025-05-26**|**Lifelong Safety Alignment for Language Models**|Haoyu Wang et.al.|[2505.20259](http://arxiv.org/abs/2505.20259)|null|
-|**2025-05-26**|**Capability-Based Scaling Laws for LLM Red-Teaming**|Alexander Panfilov et.al.|[2505.20162](http://arxiv.org/abs/2505.20162)|null|
+|**2025-05-26**|**Lifelong Safety Alignment for Language Models**|Haoyu Wang et.al.|[2505.20259](http://arxiv.org/abs/2505.20259)|**[link](https://github.com/sail-sg/lifelongsafetyalignment)**|
+|**2025-05-26**|**Capability-Based Scaling Laws for LLM Red-Teaming**|Alexander Panfilov et.al.|[2505.20162](http://arxiv.org/abs/2505.20162)|**[link](https://github.com/kotekjedi/capability-based-scaling)**|
 |**2025-05-26**|**Attention! You Vision Language Model Could Be Maliciously Manipulated**|Xiaosen Wang et.al.|[2505.19911](http://arxiv.org/abs/2505.19911)|null|
 |**2025-05-26**|**What Really Matters in Many-Shot Attacks? An Empirical Study of Long-Context Vulnerabilities in LLMs**|Sangyeop Kim et.al.|[2505.19773](http://arxiv.org/abs/2505.19773)|null|
 |**2025-05-26**|**SGM: A Framework for Building Specification-Guided Moderation Filters**|Masoomali Fatehkia et.al.|[2505.19766](http://arxiv.org/abs/2505.19766)|null|
-|**2025-05-26**|**VisCRA: A Visual Chain Reasoning Attack for Jailbreaking Multimodal Large Language Models**|Bingrui Sima et.al.|[2505.19684](http://arxiv.org/abs/2505.19684)|null|
+|**2025-05-28**|**VisCRA: A Visual Chain Reasoning Attack for Jailbreaking Multimodal Large Language Models**|Bingrui Sima et.al.|[2505.19684](http://arxiv.org/abs/2505.19684)|null|
 |**2025-05-26**|**JailBound: Jailbreaking Internal Safety Boundaries of Vision-Language Models**|Jiaxin Song et.al.|[2505.19610](http://arxiv.org/abs/2505.19610)|null|
 |**2025-05-25**|**GhostPrompt: Jailbreaking Text-to-image Generative Models based on Dynamic Optimization**|Zixuan Chen et.al.|[2505.18979](http://arxiv.org/abs/2505.18979)|null|
 |**2025-05-24**|**Security Concerns for Large Language Models: A Survey**|Miles Q. Li et.al.|[2505.18889](http://arxiv.org/abs/2505.18889)|null|
@@ -33,11 +33,11 @@ layout: default
 |**2025-05-24**|**Exploring the Vulnerability of the Content Moderation Guardrail in Large Language Models via Intent Manipulation**|Jun Zhuang et.al.|[2505.18556](http://arxiv.org/abs/2505.18556)|null|
 |**2025-05-22**|**Towards medical AI misalignment: a preliminary study**|Barbara Puccio et.al.|[2505.18212](http://arxiv.org/abs/2505.18212)|null|
 |**2025-05-23**|**An Example Safety Case for Safeguards Against Misuse**|Joshua Clymer et.al.|[2505.18003](http://arxiv.org/abs/2505.18003)|null|
-|**2025-05-23**|**Survival Games: Human-LLM Strategic Showdowns under Severe Resource Scarcity**|Zhihong Chen et.al.|[2505.17937](http://arxiv.org/abs/2505.17937)|null|
+|**2025-05-28**|**Survival Games: Human-LLM Strategic Showdowns under Severe Resource Scarcity**|Zhihong Chen et.al.|[2505.17937](http://arxiv.org/abs/2505.17937)|**[link](https://github.com/hong123123/survival-games)**|
 |**2025-05-23**|**Does Chain-of-Thought Reasoning Really Reduce Harmfulness from Jailbreaking?**|Chengda Lu et.al.|[2505.17650](http://arxiv.org/abs/2505.17650)|null|
-|**2025-05-23**|**Wolf Hidden in Sheep's Conversations: Toward Harmless Data-Based Backdoor Attacks for Jailbreaking Large Language Models**|Jiawei Kong et.al.|[2505.17601](http://arxiv.org/abs/2505.17601)|null|
-|**2025-05-23**|**One Model Transfer to All: On Robust Jailbreak Prompts Generation against LLMs**|Linbao Li et.al.|[2505.17598](http://arxiv.org/abs/2505.17598)|null|
-|**2025-05-23**|**JALMBench: Benchmarking Jailbreak Vulnerabilities in Audio Language Models**|Zifan Peng et.al.|[2505.17568](http://arxiv.org/abs/2505.17568)|null|
+|**2025-05-28**|**Wolf Hidden in Sheep's Conversations: Toward Harmless Data-Based Backdoor Attacks for Jailbreaking Large Language Models**|Jiawei Kong et.al.|[2505.17601](http://arxiv.org/abs/2505.17601)|null|
+|**2025-05-23**|**One Model Transfer to All: On Robust Jailbreak Prompts Generation against LLMs**|Linbao Li et.al.|[2505.17598](http://arxiv.org/abs/2505.17598)|**[link](https://github.com/llbao/arrattack)**|
+|**2025-05-23**|**JALMBench: Benchmarking Jailbreak Vulnerabilities in Audio Language Models**|Zifan Peng et.al.|[2505.17568](http://arxiv.org/abs/2505.17568)|**[link](https://github.com/sfofgalaxy/jalmbench)**|
 |**2025-05-23**|**Chain-of-Lure: A Synthetic Narrative-Driven Approach to Compromise Large Language Models**|Wenhan Chang et.al.|[2505.17519](http://arxiv.org/abs/2505.17519)|null|
 |**2025-05-22**|**Refusal Direction is Universal Across Safety-Aligned Languages**|Xinpeng Wang et.al.|[2505.17306](http://arxiv.org/abs/2505.17306)|null|
 |**2025-05-22**|**MTSA: Multi-turn Safety Alignment for LLMs through Multi-round Red-teaming**|Weiyang Guo et.al.|[2505.17147](http://arxiv.org/abs/2505.17147)|null|
@@ -107,7 +107,7 @@ layout: default
 |**2025-04-30**|**XBreaking: Explainable Artificial Intelligence for Jailbreaking LLMs**|Marco Arazzi et.al.|[2504.21700](http://arxiv.org/abs/2504.21700)|null|
 |**2025-04-30**|**Hoist with His Own Petard: Inducing Guardrails to Facilitate Denial-of-Service Attacks on Retrieval-Augmented Generation of LLMs**|Pan Suo et.al.|[2504.21680](http://arxiv.org/abs/2504.21680)|null|
 |**2025-04-30**|**The Dual Power of Interpretable Token Embeddings: Jailbreaking Attacks and Defenses for Diffusion Model Unlearning**|Siyi Chen et.al.|[2504.21307](http://arxiv.org/abs/2504.21307)|null|
-|**2025-04-28**|**Prefill-Based Jailbreak: A Novel Approach of Bypassing LLM Safety Boundary**|Yakai Li et.al.|[2504.21038](http://arxiv.org/abs/2504.21038)|null|
+|**2025-04-28**|**Prefill-Based Jailbreak: A Novel Approach of Bypassing LLM Safety Boundary**|Yakai Li et.al.|[2504.21038](http://arxiv.org/abs/2504.21038)|**[link](https://github.com/star5o/Prefill-based-Jailbreak)**|
 |**2025-04-29**|**AegisLLM: Scaling Agentic Systems for Self-Reflective Defense in LLM Security**|Zikui Cai et.al.|[2504.20965](http://arxiv.org/abs/2504.20965)|**[link](https://github.com/zikuicai/aegisllm)**|
 |**2025-04-29**|**When Testing AI Tests Us: Safeguarding Mental Health on the Digital Frontlines**|Sachin R. Pendse et.al.|[2504.20910](http://arxiv.org/abs/2504.20910)|null|
 |**2025-04-29**|**Inception: Jailbreak the Memory Mechanism of Text-to-Image Generation Systems**|Shiqian Zhao et.al.|[2504.20376](http://arxiv.org/abs/2504.20376)|null|
@@ -196,7 +196,7 @@ layout: default
 |**2025-03-14**|**Align in Depth: Defending Jailbreak Attacks via Progressive Answer Detoxification**|Yingjie Zhang et.al.|[2503.11185](http://arxiv.org/abs/2503.11185)|null|
 |**2025-03-21**|**TAIJI: Textual Anchoring for Immunizing Jailbreak Images in Vision Language Models**|Xiangyu Yin et.al.|[2503.10872](http://arxiv.org/abs/2503.10872)|null|
 |**2025-03-21**|**CeTAD: Towards Certified Toxicity-Aware Distance in Vision Language Models**|Xiangyu Yin et.al.|[2503.10661](http://arxiv.org/abs/2503.10661)|null|
-|**2025-05-21**|**Tempest: Autonomous Multi-Turn Jailbreaking of Large Language Models with Tree Search**|Andy Zhou et.al.|[2503.10619](http://arxiv.org/abs/2503.10619)|null|
+|**2025-05-28**|**Tempest: Autonomous Multi-Turn Jailbreaking of Large Language Models with Tree Search**|Andy Zhou et.al.|[2503.10619](http://arxiv.org/abs/2503.10619)|null|
 |**2025-03-13**|**Red Teaming Contemporary AI Models: Insights from Spanish and Basque Perspectives**|Miguel Romero-Arjona et.al.|[2503.10192](http://arxiv.org/abs/2503.10192)|null|
 |**2025-03-12**|**Probing Latent Subspaces in LLM for AI Security: Identifying and Manipulating Adversarial States**|Xin Wei Chia et.al.|[2503.09066](http://arxiv.org/abs/2503.09066)|null|
 |**2025-03-12**|**JBFuzz: Jailbreaking LLMs Efficiently and Effectively Using Fuzzing**|Vasudev Gohil et.al.|[2503.08990](http://arxiv.org/abs/2503.08990)|null|
@@ -231,7 +231,7 @@ layout: default
 |**2025-05-26**|**Beyond the Tip of Efficiency: Uncovering the Submerged Threats of Jailbreak Attacks in Small Language Models**|Sibo Yi et.al.|[2502.19883](http://arxiv.org/abs/2502.19883)|null|
 |**2025-03-28**|**Foot-In-The-Door: A Multi-turn Jailbreak for LLMs**|Zixuan Weng et.al.|[2502.19820](http://arxiv.org/abs/2502.19820)|**[link](https://github.com/Jinxiaolong1129/Foot-in-the-door-Jailbreak)**|
 |**2025-04-01**|**No, of course I can! Refusal Mechanisms Can Be Exploited Using Harmless Fine-Tuning Data**|Joshua Kazdan et.al.|[2502.19537](http://arxiv.org/abs/2502.19537)|null|
-|**2025-02-26**|**Beyond Surface-Level Patterns: An Essence-Driven Defense Framework Against Jailbreak Attacks in LLMs**|Shiyu Xiang et.al.|[2502.19041](http://arxiv.org/abs/2502.19041)|null|
+|**2025-05-28**|**Beyond Surface-Level Patterns: An Essence-Driven Defense Framework Against Jailbreak Attacks in LLMs**|Shiyu Xiang et.al.|[2502.19041](http://arxiv.org/abs/2502.19041)|null|
 |**2025-02-26**|**JailBench: A Comprehensive Chinese Security Assessment Benchmark for Large Language Models**|Shuyi Liu et.al.|[2502.18935](http://arxiv.org/abs/2502.18935)|null|
 |**2025-02-21**|**TurboFuzzLLM: Turbocharging Mutation-based Fuzzing for Effectively Jailbreaking Large Language Models in Practice**|Aman Goel et.al.|[2502.18504](http://arxiv.org/abs/2502.18504)|null|
 |**2025-02-24**|**How Do Large Language Monkeys Get Their Power (Laws)?**|Rylan Schaeffer et.al.|[2502.17578](http://arxiv.org/abs/2502.17578)|null|
