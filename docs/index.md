@@ -7,27 +7,27 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Red Teaming
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-10**|**AdversariaL attacK sAfety aLIgnment(ALKALI): Safeguarding LLMs through GRACE: Geometric Representation-Aware Contrastive Enhancement- Introducing Adversarial Vulnerability Quality Index (AVQI)**|Danush Khanna et.al.|[2506.08885](http://arxiv.org/abs/2506.08885)|null|
-|**2025-06-09**|**RSafe: Incentivizing proactive reasoning to build robust and adaptive LLM safeguards**|Jingnan Zheng et.al.|[2506.07736](http://arxiv.org/abs/2506.07736)|null|
+|**2025-06-11**|**AdversariaL attacK sAfety aLIgnment(ALKALI): Safeguarding LLMs through GRACE: Geometric Representation-Aware Contrastive Enhancement- Introducing Adversarial Vulnerability Quality Index (AVQI)**|Danush Khanna et.al.|[2506.08885](http://arxiv.org/abs/2506.08885)|null|
+|**2025-06-11**|**RSafe: Incentivizing proactive reasoning to build robust and adaptive LLM safeguards**|Jingnan Zheng et.al.|[2506.07736](http://arxiv.org/abs/2506.07736)|null|
 |**2025-06-09**|**Evaluating LLMs Robustness in Less Resourced Languages with Proxy Models**|Maciej Chrabąszcz et.al.|[2506.07645](http://arxiv.org/abs/2506.07645)|null|
 |**2025-06-09**|**TwinBreak: Jailbreaking LLM Security Alignments based on Twin Prompts**|Torsten Krauß et.al.|[2506.07596](http://arxiv.org/abs/2506.07596)|null|
 |**2025-06-09**|**When Style Breaks Safety: Defending Language Models Against Superficial Style Alignment**|Yuxin Xiao et.al.|[2506.07452](http://arxiv.org/abs/2506.07452)|null|
 |**2025-06-09**|**Beyond Jailbreaks: Revealing Stealthier and Broader LLM Security Risks Stemming from Alignment Failures**|Yukai Zhou et.al.|[2506.07402](http://arxiv.org/abs/2506.07402)|null|
 |**2025-06-08**|**Quality-Diversity Red-Teaming: Automated Generation of High-Quality and Diverse Attackers for Large Language Models**|Ren-Jian Wang et.al.|[2506.07121](http://arxiv.org/abs/2506.07121)|null|
 |**2025-06-08**|**AlphaSteer: Learning Refusal Steering with Principled Null-Space Constraint**|Leheng Sheng et.al.|[2506.07022](http://arxiv.org/abs/2506.07022)|null|
-|**2025-06-10**|**Auditing Black-Box LLM APIs with a Rank-Based Uniformity Test**|Xiaoyuan Zhu et.al.|[2506.06975](http://arxiv.org/abs/2506.06975)|null|
+|**2025-06-11**|**Auditing Black-Box LLM APIs with a Rank-Based Uniformity Test**|Xiaoyuan Zhu et.al.|[2506.06975](http://arxiv.org/abs/2506.06975)|null|
 |**2025-06-06**|**Saffron-1: Towards an Inference Scaling Paradigm for LLM Safety Assurance**|Ruizhong Qiu et.al.|[2506.06444](http://arxiv.org/abs/2506.06444)|null|
 |**2025-06-06**|**Small Models, Big Support: A Local LLM Framework for Teacher-Centric Content Creation and Assessment using RAG and CAG**|Zarreen Reza et.al.|[2506.05925](http://arxiv.org/abs/2506.05925)|null|
 |**2025-06-09**|**A Red Teaming Roadmap Towards System-Level Safety**|Zifan Wang et.al.|[2506.05376](http://arxiv.org/abs/2506.05376)|null|
 |**2025-06-05**|**Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets**|Lei Hsiung et.al.|[2506.05346](http://arxiv.org/abs/2506.05346)|null|
-|**2025-06-05**|**HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model**|Youngwan Lee et.al.|[2506.04704](http://arxiv.org/abs/2506.04704)|null|
+|**2025-06-11**|**HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model**|Youngwan Lee et.al.|[2506.04704](http://arxiv.org/abs/2506.04704)|null|
 |**2025-06-04**|**RedRFT: A Light-Weight Benchmark for Reinforcement Fine-Tuning-Based Red Teaming**|Xiang Zheng et.al.|[2506.04302](http://arxiv.org/abs/2506.04302)|null|
 |**2025-06-03**|**Adversarial Attacks on Robotic Vision Language Action Models**|Eliot Krzysztof Jones et.al.|[2506.03350](http://arxiv.org/abs/2506.03350)|**[link](https://github.com/eliotjones1/robogcg)**|
 |**2025-06-03**|**It's the Thought that Counts: Evaluating the Attempts of Frontier LLMs to Persuade on Harmful Topics**|Matthew Kowal et.al.|[2506.02873](http://arxiv.org/abs/2506.02873)|null|
@@ -272,7 +272,7 @@ layout: default
 |**2025-02-28**|**À la recherche du sens perdu: your favourite LLM might have more to say than you can understand**|K. O. T. Erziev et.al.|[2503.00224](http://arxiv.org/abs/2503.00224)|**[link](https://github.com/l3g5/llm-hidden-meanings)**|
 |**2025-02-28**|**Steering Dialogue Dynamics for Robustness against Multi-turn Jailbreaking Attacks**|Hanjiang Hu et.al.|[2503.00187](http://arxiv.org/abs/2503.00187)|**[link](https://github.com/hanjianghu/nbf-llm)**|
 |**2025-06-07**|**from Benign import Toxic: Jailbreaking the Language Model via Adversarial Metaphors**|Yu Yan et.al.|[2503.00038](http://arxiv.org/abs/2503.00038)|null|
-|**2025-02-28**|**FC-Attack: Jailbreaking Large Vision-Language Models via Auto-Generated Flowcharts**|Ziyi Zhang et.al.|[2502.21059](http://arxiv.org/abs/2502.21059)|null|
+|**2025-06-10**|**FC-Attack: Jailbreaking Multimodal Large Language Models via Auto-Generated Flowcharts**|Ziyi Zhang et.al.|[2502.21059](http://arxiv.org/abs/2502.21059)|null|
 |**2025-02-28**|**Efficient Jailbreaking of Large Models by Freeze Training: Lower Layers Exhibit Greater Sensitivity to Harmful Content**|Hongyuan Shen et.al.|[2502.20952](http://arxiv.org/abs/2502.20952)|null|
 |**2025-02-28**|**SafeText: Safe Text-to-image Models via Aligning the Text Encoder**|Yuepeng Hu et.al.|[2502.20623](http://arxiv.org/abs/2502.20623)|null|
 |**2025-05-26**|**Beyond the Tip of Efficiency: Uncovering the Submerged Threats of Jailbreak Attacks in Small Language Models**|Sibo Yi et.al.|[2502.19883](http://arxiv.org/abs/2502.19883)|null|
@@ -570,7 +570,7 @@ layout: default
 |**2025-03-20**|**Robust LLM safeguarding via refusal feature adversarial training**|Lei Yu et.al.|[2409.20089](http://arxiv.org/abs/2409.20089)|null|
 |**2024-09-28**|**Overriding Safety protections of Open-source Models**|Sachin Kumar et.al.|[2409.19476](http://arxiv.org/abs/2409.19476)|**[link](https://github.com/techsachinkr/Overriding_Model_Safety_Protections)**|
 |**2024-09-27**|**HM3: Heterogeneous Multi-Class Model Merging**|Stefan Hackmann et.al.|[2409.19173](http://arxiv.org/abs/2409.19173)|null|
-|**2024-09-27**|**Multimodal Pragmatic Jailbreak on Text-to-image Models**|Tong Liu et.al.|[2409.19149](http://arxiv.org/abs/2409.19149)|null|
+|**2025-06-10**|**Multimodal Pragmatic Jailbreak on Text-to-image Models**|Tong Liu et.al.|[2409.19149](http://arxiv.org/abs/2409.19149)|null|
 |**2025-05-31**|**An Adversarial Perspective on Machine Unlearning for AI Safety**|Jakub Łucki et.al.|[2409.18025](http://arxiv.org/abs/2409.18025)|**[link](https://github.com/ethz-spylab/unlearning-vs-safety)**|
 |**2024-10-04**|**MoJE: Mixture of Jailbreak Experts, Naive Tabular Classifiers as Guard for Prompt Attacks**|Giandomenico Cornacchia et.al.|[2409.17699](http://arxiv.org/abs/2409.17699)|null|
 |**2025-06-07**|**RED QUEEN: Safeguarding Large Language Models against Concealed Multi-Turn Jailbreaking**|Yifan Jiang et.al.|[2409.17458](http://arxiv.org/abs/2409.17458)|**[link](https://github.com/kriti-hippo/red_queen)**|
@@ -594,7 +594,7 @@ layout: default
 |**2024-09-07**|**Exploring Straightforward Conversational Red-Teaming**|George Kour et.al.|[2409.04822](http://arxiv.org/abs/2409.04822)|null|
 |**2025-06-09**|**HSF: Defending against Jailbreak Attacks with Hidden State Filtering**|Cheng Qian et.al.|[2409.03788](http://arxiv.org/abs/2409.03788)|null|
 |**2024-11-29**|**Conversational Complexity for Assessing Risk in Large Language Models**|John Burden et.al.|[2409.01247](http://arxiv.org/abs/2409.01247)|null|
-|**2024-09-01**|**Automatic Pseudo-Harmful Prompt Generation for Evaluating False Refusals in Large Language Models**|Bang An et.al.|[2409.00598](http://arxiv.org/abs/2409.00598)|**[link](https://github.com/umd-huang-lab/falserefusal)**|
+|**2025-06-11**|**Automatic Pseudo-Harmful Prompt Generation for Evaluating False Refusals in Large Language Models**|Bang An et.al.|[2409.00598](http://arxiv.org/abs/2409.00598)|**[link](https://github.com/umd-huang-lab/falserefusal)**|
 |**2024-08-31**|**Testing and Evaluation of Large Language Models: Correctness, Non-Toxicity, and Fairness**|Wenxuan Wang et.al.|[2409.00551](http://arxiv.org/abs/2409.00551)|null|
 |**2025-03-14**|**PrivacyLens: Evaluating Privacy Norm Awareness of Language Models in Action**|Yijia Shao et.al.|[2409.00138](http://arxiv.org/abs/2409.00138)|**[link](https://github.com/salt-nlp/privacylens)**|
 |**2024-08-29**|**Emerging Vulnerabilities in Frontier Models: Multi-Turn Jailbreak Attacks**|Tom Gibbs et.al.|[2409.00137](http://arxiv.org/abs/2409.00137)|null|
@@ -698,7 +698,7 @@ layout: default
 |**2024-06-25**|**CoSafe: Evaluating Large Language Model Safety in Multi-Turn Dialogue Coreference**|Erxin Yu et.al.|[2406.17626](http://arxiv.org/abs/2406.17626)|**[link](https://github.com/ErxinYu/CoSafe-Dataset)**|
 |**2024-06-25**|**Leveraging Reinforcement Learning in Red Teaming for Advanced Ransomware Attack Simulations**|Cheng Wang et.al.|[2406.17576](http://arxiv.org/abs/2406.17576)|null|
 |**2024-06-21**|**Steering Without Side Effects: Improving Post-Deployment Control of Language Models**|Asa Cooper Stickland et.al.|[2406.15518](http://arxiv.org/abs/2406.15518)|**[link](https://github.com/asacooperstickland/kl-then-steer)**|
-|**2024-11-02**|**Code-Switching Red-Teaming: LLM Evaluation for Safety and Multilingual Understanding**|Haneul Yoo et.al.|[2406.15481](http://arxiv.org/abs/2406.15481)|**[link](https://github.com/haneul-yoo/csrt)**|
+|**2025-06-11**|**Code-Switching Red-Teaming: LLM Evaluation for Safety and Multilingual Understanding**|Haneul Yoo et.al.|[2406.15481](http://arxiv.org/abs/2406.15481)|**[link](https://github.com/haneul-yoo/csrt)**|
 |**2024-06-21**|**From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking**|Siyuan Wang et.al.|[2406.14859](http://arxiv.org/abs/2406.14859)|null|
 |**2024-07-01**|**Adversaries Can Misuse Combinations of Safe Models**|Erik Jones et.al.|[2406.14595](http://arxiv.org/abs/2406.14595)|null|
 |**2025-04-19**|**Jailbreaking as a Reward Misspecification Problem**|Zhihui Xie et.al.|[2406.14393](http://arxiv.org/abs/2406.14393)|**[link](https://github.com/zhxieml/remiss-jailbreak)**|
