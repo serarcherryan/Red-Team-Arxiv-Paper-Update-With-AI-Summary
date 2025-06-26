@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.24
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**PrivacyXray: Detecting Privacy Breaches in LLMs through Semantic Consistency and Probability Certainty**|Jinwen He et.al.|[2506.19563](http://arxiv.org/abs/2506.19563)|null|
+|**2025-06-24**|**MSR-Align: Policy-Grounded Multimodal Alignment for Safety-Aware Reasoning in Vision-Language Models**|Yinan Xia et.al.|[2506.19257](http://arxiv.org/abs/2506.19257)|null|
+|**2025-06-23**|**Command-V: Pasting LLM Behaviors via Activation Profiles**|Barry Wang et.al.|[2506.19140](http://arxiv.org/abs/2506.19140)|null|
 |**2025-06-23**|**Security Assessment of DeepSeek and GPT Series Models against Jailbreak Attacks**|Xiaodong Wu et.al.|[2506.18543](http://arxiv.org/abs/2506.18543)|null|
 |**2025-06-23**|**NSFW-Classifier Guided Prompt Sanitization for Safe Text-to-Image Generation**|Yu Xie et.al.|[2506.18325](http://arxiv.org/abs/2506.18325)|null|
 |**2025-06-22**|**Multi-turn Jailbreaking via Global Refinement and Active Fabrication**|Hua Tang et.al.|[2506.17881](http://arxiv.org/abs/2506.17881)|null|
@@ -27,10 +30,10 @@
 |**2025-06-20**|**MIST: Jailbreaking Black-box Large Language Models via Iterative Semantic Tuning**|Muyang Zheng et.al.|[2506.16792](http://arxiv.org/abs/2506.16792)|null|
 |**2025-06-20**|**Cross-Modal Obfuscation for Jailbreak Attacks on Large Vision-Language Models**|Lei Jiang et.al.|[2506.16760](http://arxiv.org/abs/2506.16760)|null|
 |**2025-06-19**|**Probe before You Talk: Towards Black-box Defense against Backdoor Unalignment for Large Language Models**|Biao Yi et.al.|[2506.16447](http://arxiv.org/abs/2506.16447)|null|
-|**2025-06-19**|**Probing the Robustness of Large Language Models Safety to Latent Perturbations**|Tianle Gu et.al.|[2506.16078](http://arxiv.org/abs/2506.16078)|null|
+|**2025-06-19**|**Probing the Robustness of Large Language Models Safety to Latent Perturbations**|Tianle Gu et.al.|[2506.16078](http://arxiv.org/abs/2506.16078)|**[link](https://github.com/carol-gutianle/latentsafety)**|
 |**2025-06-18**|**Sysformer: Safeguarding Frozen Large Language Models with Adaptive System Prompts**|Kartik Sharma et.al.|[2506.15751](http://arxiv.org/abs/2506.15751)|null|
 |**2025-06-18**|**From LLMs to MLLMs to Agents: A Survey of Emerging Paradigms in Jailbreak Attacks and Defenses within LLM Ecosystem**|Yanxu Mao et.al.|[2506.15170](http://arxiv.org/abs/2506.15170)|null|
-|**2025-06-17**|**FORTRESS: Frontier Risk Evaluation for National Security and Public Safety**|Christina Q. Knight et.al.|[2506.14922](http://arxiv.org/abs/2506.14922)|null|
+|**2025-06-24**|**FORTRESS: Frontier Risk Evaluation for National Security and Public Safety**|Christina Q. Knight et.al.|[2506.14922](http://arxiv.org/abs/2506.14922)|null|
 |**2025-06-17**|**AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models**|Ads Dawson et.al.|[2506.14682](http://arxiv.org/abs/2506.14682)|**[link](https://github.com/dreadnode/airtbench-code)**|
 |**2025-06-16**|**Alignment Quality Index (AQI) : Beyond Refusals: AQI as an Intrinsic Alignment Diagnostic via Latent Geometry, Cluster Divergence, and Layer wise Pooled Representations**|Abhilekh Borah et.al.|[2506.13901](http://arxiv.org/abs/2506.13901)|null|
 |**2025-06-16**|**We Should Identify and Mitigate Third-Party Safety Risks in MCP-Powered Agent Systems**|Junfeng Fang et.al.|[2506.13666](http://arxiv.org/abs/2506.13666)|**[link](https://github.com/littlelittlenine/safemcp)**|
@@ -386,7 +389,7 @@
 |**2025-02-04**|**STAIR: Improving Safety Alignment with Introspective Reasoning**|Yichi Zhang et.al.|[2502.02384](http://arxiv.org/abs/2502.02384)|**[link](https://github.com/thu-ml/stair)**|
 |**2025-06-12**|**PANDAS: Improving Many-shot Jailbreaking via Positive Affirmation, Negative Demonstration, and Adaptive Sampling**|Avery Ma et.al.|[2502.01925](http://arxiv.org/abs/2502.01925)|**[link](https://github.com/averyma/pandas)**|
 |**2025-05-26**|**Firewalls to Secure Dynamic LLM Agentic Networks**|Sahar Abdelnabi et.al.|[2502.01822](http://arxiv.org/abs/2502.01822)|null|
-|**2025-02-03**|**Adversarial Reasoning at Jailbreaking Time**|Mahdi Sabbaghi et.al.|[2502.01633](http://arxiv.org/abs/2502.01633)|**[link](https://github.com/helloworld10011/adversarial-reasoning)**|
+|**2025-06-25**|**Adversarial Reasoning at Jailbreaking Time**|Mahdi Sabbaghi et.al.|[2502.01633](http://arxiv.org/abs/2502.01633)|**[link](https://github.com/helloworld10011/adversarial-reasoning)**|
 |**2025-02-03**|**Robust-LLaVA: On the Effectiveness of Large-Scale Robust Image Encoders for Multi-modal Large Language Models**|Hashmat Shadab Malik et.al.|[2502.01576](http://arxiv.org/abs/2502.01576)|**[link](https://github.com/hashmatshadab/robust-llava)**|
 |**2025-04-14**|**Towards Safer Chatbots: A Framework for Policy Compliance Evaluation of Custom GPTs**|David Rodriguez et.al.|[2502.01436](http://arxiv.org/abs/2502.01436)|null|
 |**2025-02-03**|**Peering Behind the Shield: Guardrail Identification in Large Language Models**|Ziqing Yang et.al.|[2502.01241](http://arxiv.org/abs/2502.01241)|null|
@@ -549,7 +552,7 @@
 |**2025-02-12**|**BlueSuffix: Reinforced Blue Teaming for Vision-Language Models Against Jailbreak Attacks**|Yunhan Zhao et.al.|[2410.20971](http://arxiv.org/abs/2410.20971)|null|
 |**2024-10-25**|**RobustKV: Defending Large Language Models against Jailbreak Attacks via KV Eviction**|Tanqiu Jiang et.al.|[2410.19937](http://arxiv.org/abs/2410.19937)|null|
 |**2025-06-15**|**An Auditing Test To Detect Behavioral Shift in Language Models**|Leo Richter et.al.|[2410.19406](http://arxiv.org/abs/2410.19406)|**[link](https://github.com/richterleo/Auditing_Test_for_LMs)**|
-|**2025-03-11**|**Iterative Self-Tuning LLMs for Enhanced Jailbreaking Capabilities**|Chung-En Sun et.al.|[2410.18469](http://arxiv.org/abs/2410.18469)|**[link](https://github.com/sunchungen/adv-llm)**|
+|**2025-06-23**|**ADVLLM: Iterative Self-Tuning LLMs for Enhanced Jailbreaking Capabilities**|Chung-En Sun et.al.|[2410.18469](http://arxiv.org/abs/2410.18469)|**[link](https://github.com/sunchungen/adv-llm)**|
 |**2025-02-27**|**Towards Understanding the Fragility of Multilingual LLMs against Fine-Tuning Attacks**|Samuele Poppi et.al.|[2410.18210](http://arxiv.org/abs/2410.18210)|null|
 |**2025-02-09**|**Dynamic Guided and Domain Applicable Safeguards for Enhanced Security in Large Language Models**|Weidi Luo et.al.|[2410.17922](http://arxiv.org/abs/2410.17922)|**[link](https://github.com/idea-xl/g4d)**|
 |**2025-05-31**|**AdvAgent: Controllable Blackbox Red-teaming on Web Agents**|Chejian Xu et.al.|[2410.17401](http://arxiv.org/abs/2410.17401)|null|
@@ -678,7 +681,7 @@
 |**2024-08-02**|**Mission Impossible: A Statistical Perspective on Jailbreaking LLMs**|Jingtong Su et.al.|[2408.01420](http://arxiv.org/abs/2408.01420)|null|
 |**2024-08-01**|**WHITE PAPER: A Brief Exploration of Data Exfiltration using GCG Suffixes**|Victor Valbuena et.al.|[2408.00925](http://arxiv.org/abs/2408.00925)|null|
 |**2025-02-10**|**Tamper-Resistant Safeguards for Open-Weight LLMs**|Rishub Tamirisa et.al.|[2408.00761](http://arxiv.org/abs/2408.00761)|**[link](https://github.com/rishub-tamirisa/tamper-resistance)**|
-|**2024-09-09**|**Jailbreaking Text-to-Image Models with LLM-Based Agents**|Yingkai Dong et.al.|[2408.00523](http://arxiv.org/abs/2408.00523)|null|
+|**2025-06-24**|**Fuzz-Testing Meets LLM-Based Agents: An Automated and Efficient Framework for Jailbreaking Text-To-Image Generation Models**|Yingkai Dong et.al.|[2408.00523](http://arxiv.org/abs/2408.00523)|null|
 |**2024-10-17**|**Cross-modality Information Check for Detecting Jailbreaking in Multimodal Large Language Models**|Yue Xu et.al.|[2407.21659](http://arxiv.org/abs/2407.21659)|**[link](https://github.com/pandragonxiii/cider)**|
 |**2025-01-16**|**Direct Unlearning Optimization for Robust and Safe Text-to-Image Models**|Yong-Hyun Park et.al.|[2407.21035](http://arxiv.org/abs/2407.21035)|null|
 |**2025-02-04**|**BadRobot: Jailbreaking Embodied LLMs in the Physical World**|Hangtao Zhang et.al.|[2407.20242](http://arxiv.org/abs/2407.20242)|null|
@@ -1116,7 +1119,7 @@
 |**2017-12-02**|**Recurrent Neural Network Language Models for Open Vocabulary Event-Level Cyber Anomaly Detection**|Aaron Tuor et.al.|[1712.00557](http://arxiv.org/abs/1712.00557)|**[link](https://github.com/pnnl/safekit)**|
 |**2015-04-07**|**Security Toolbox for Detecting Novel and Sophisticated Android Malware**|Benjamin Holland et.al.|[1504.01693](http://arxiv.org/abs/1504.01693)|null|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
