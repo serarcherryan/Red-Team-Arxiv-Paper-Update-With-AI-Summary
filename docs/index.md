@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Response Attack: Exploiting Contextual Priming to Jailbreak Large Language Models**|Ziqi Miao et.al.|[2507.05248](http://arxiv.org/abs/2507.05248)|null|
+|**2025-07-07**|**Trojan Horse Prompting: Jailbreaking Conversational Multimodal Models by Forging Assistant Message**|Wei Duan et.al.|[2507.04673](http://arxiv.org/abs/2507.04673)|null|
+|**2025-07-06**|**Tail-aware Adversarial Attacks: A Distributional Approach to Efficient LLM Jailbreaking**|Tim Beyer et.al.|[2507.04446](http://arxiv.org/abs/2507.04446)|null|
+|**2025-07-06**|**Attention Slipping: A Mechanistic Understanding of Jailbreak Attacks and Defenses in LLMs**|Xiaomeng Hu et.al.|[2507.04365](http://arxiv.org/abs/2507.04365)|null|
+|**2025-07-04**|**On Jailbreaking Quantized Language Models Through Fault Injection Attacks**|Noureldin Zahran et.al.|[2507.03236](http://arxiv.org/abs/2507.03236)|null|
+|**2025-07-03**|**Adversarial Manipulation of Reasoning Models using Internal Representations**|Kureha Yamaguchi et.al.|[2507.03167](http://arxiv.org/abs/2507.03167)|null|
+|**2025-07-01**|**`For Argument's Sake, Show Me How to Harm Myself!': Jailbreaking LLMs in Suicide and Self-Harm Contexts**|Annika M Schoene et.al.|[2507.02990](http://arxiv.org/abs/2507.02990)|null|
+|**2025-06-29**|**A Representation Engineering Perspective on the Effectiveness of Multi-Turn Jailbreaks**|Blake Bullwinkel et.al.|[2507.02956](http://arxiv.org/abs/2507.02956)|null|
 |**2025-07-03**|**Visual Contextual Attack: Jailbreaking MLLMs with Image-Driven Context Injection**|Ziqi Miao et.al.|[2507.02844](http://arxiv.org/abs/2507.02844)|null|
 |**2025-07-03**|**Is Reasoning All You Need? Probing Bias in the Age of Reasoning Language Models**|Riccardo Cantini et.al.|[2507.02799](http://arxiv.org/abs/2507.02799)|null|
 |**2025-07-03**|**PII Jailbreaking in LLMs via Activation Steering Reveals Personal Information Leakage**|Krishna Kanth Nakka et.al.|[2507.02332](http://arxiv.org/abs/2507.02332)|null|
