@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling**|Boheng Li et.al.|[2507.16329](http://arxiv.org/abs/2507.16329)|null|
+|**2025-07-21**|**Red-Team Multi-Agent Reinforcement Learning for Emergency Braking Scenario**|Yinsong Chen et.al.|[2507.15587](http://arxiv.org/abs/2507.15587)|null|
+|**2025-07-20**|**AlphaAlign: Incentivizing Safety Alignment with Extremely Simplified Reinforcement Learning**|Yi Zhang et.al.|[2507.14987](http://arxiv.org/abs/2507.14987)|null|
+|**2025-07-14**|**PRM-Free Security Alignment of Large Models via Red Teaming and Adversarial Training**|Pengfei Du et.al.|[2507.14202](http://arxiv.org/abs/2507.14202)|null|
 |**2025-07-18**|**Innocence in the Crossfire: Roles of Skip Connections in Jailbreaking Visual Language Models**|Palash Nandi et.al.|[2507.13761](http://arxiv.org/abs/2507.13761)|null|
 |**2025-07-17**|**Paper Summary Attack: Jailbreaking LLMs through LLM Safety Papers**|Liang Lin et.al.|[2507.13474](http://arxiv.org/abs/2507.13474)|null|
 |**2025-07-16**|**Exploiting Jailbreaking Vulnerabilities in Generative AI to Bypass Ethical Safeguards for Facilitating Phishing Attacks**|Rina Mishra et.al.|[2507.12185](http://arxiv.org/abs/2507.12185)|null|
@@ -1166,7 +1170,7 @@
 |**2017-12-02**|**Recurrent Neural Network Language Models for Open Vocabulary Event-Level Cyber Anomaly Detection**|Aaron Tuor et.al.|[1712.00557](http://arxiv.org/abs/1712.00557)|**[link](https://github.com/pnnl/safekit)**|
 |**2015-04-07**|**Security Toolbox for Detecting Novel and Sophisticated Android Malware**|Benjamin Holland et.al.|[1504.01693](http://arxiv.org/abs/1504.01693)|null|
 
-<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
