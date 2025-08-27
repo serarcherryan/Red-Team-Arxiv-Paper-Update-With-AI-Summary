@@ -77,7 +77,7 @@ def load_config(config_file:str) -> dict:
         for k,v in config['keywords'].items():
             keywords[k] = parse_filters(v['filters'])
         return keywords
-    with open(config_file,'r') as f:
+    with open(config_file,'r', encoding='utf-8') as f:
         config = yaml.load(f,Loader=yaml.FullLoader)
         config['kv'] = pretty_filters(**config)
         logging.info(f'config = {config}')
@@ -135,62 +135,69 @@ def get_daily_papers(topic,query="slam", max_results=2):
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
-    for result in search_engine.results():
+    try:
+        for result in search_engine.results():
+            
+            paper_id            = result.get_short_id()
+            paper_title         = result.title
+            paper_url           = result.entry_id
+            code_url            = base_url + paper_id #TODO
+            paper_abstract      = result.summary.replace("\n"," ")
+            paper_authors       = get_authors(result.authors)
+            paper_first_author  = get_authors(result.authors,first_author = True)
+            primary_category    = result.primary_category
+            publish_time        = result.published.date()
+            update_time         = result.updated.date()
+            comments            = result.comment
 
-        paper_id            = result.get_short_id()
-        paper_title         = result.title
-        paper_url           = result.entry_id
-        code_url            = base_url + paper_id #TODO
-        paper_abstract      = result.summary.replace("\n"," ")
-        paper_authors       = get_authors(result.authors)
-        paper_first_author  = get_authors(result.authors,first_author = True)
-        primary_category    = result.primary_category
-        publish_time        = result.published.date()
-        update_time         = result.updated.date()
-        comments            = result.comment
+            logging.info(f"Time = {publish_time} title = {paper_title} author = {paper_first_author}")
 
-        logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
+            # Only process papers published today
+            if publish_time != datetime.date.today():
+                continue
 
-        # eg: 2108.09112v1 -> 2108.09112
-        ver_pos = paper_id.find('v')
-        if ver_pos == -1:
-            paper_key = paper_id
-        else:
-            paper_key = paper_id[0:ver_pos]
-        paper_url = arxiv_url + 'abs/' + paper_key
-
-        try:
-            # source code link
-            r = get_json_with_retries(code_url)
-            repo_url = None
-            if r and "official" in r and r["official"]:
-                repo_url = r["official"]["url"]
-            # TODO: not found, two more chances
-            # else:
-            #    repo_url = get_code_link(paper_title)
-            #    if repo_url is None:
-            #        repo_url = get_code_link(paper_key)
-            if repo_url is not None:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
-
+            # eg: 2108.09112v1 -> 2108.09112
+            ver_pos = paper_id.find('v')
+            if ver_pos == -1:
+                paper_key = paper_id
             else:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url)
+                paper_key = paper_id[0:ver_pos]
+            paper_url = arxiv_url + 'abs/' + paper_key
 
-            # TODO: select useful comments
-            comments = None
-            if comments != None:
-                content_to_web[paper_key] += f", {comments}\n"
-            else:
-                content_to_web[paper_key] += f"\n"
+            try:
+                # source code link
+                r = get_json_with_retries(code_url)
+                repo_url = None
+                if r and "official" in r and r["official"]:
+                    repo_url = r["official"]["url"]
+                # TODO: not found, two more chances
+                # else:
+                #    repo_url = get_code_link(paper_title)
+                #    if repo_url is None:
+                #        repo_url = get_code_link(paper_key)
+                if repo_url is not None:
+                    content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
+                           publish_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
+                    content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
+                           publish_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
 
-        except Exception as e:
-            logging.warning(f"Fetch code link failed: {e} with id: {paper_key}")
+                else:
+                    content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
+                           publish_time,paper_title,paper_first_author,paper_key,paper_url)
+                    content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
+                           publish_time,paper_title,paper_first_author,paper_url,paper_url)
+
+                # TODO: select useful comments
+                comments = None
+                if comments != None:
+                    content_to_web[paper_key] += f", {comments}\n"
+                else:
+                    content_to_web[paper_key] += f"\n"
+
+            except Exception as e:
+                logging.warning(f"Fetch code link failed: {e} with id: {paper_key}")
+    except arxiv.UnexpectedEmptyPageError as e:
+        logging.warning(f"arXiv returned an unexpected empty page; continuing with collected results. Details: {e}")
 
     data = {topic:content}
     data_web = {topic:content_to_web}
@@ -210,7 +217,7 @@ def update_paper_links(filename):
         arxiv_id = re.sub(r'v\d+', '', arxiv_id)
         return date,title,authors,arxiv_id,code
 
-    with open(filename,"r") as f:
+    with open(filename,"r", encoding='utf-8') as f:
         content = f.read()
         if not content:
             m = {}
@@ -247,14 +254,14 @@ def update_paper_links(filename):
                 except Exception as e:
                     logging.warning(f"Update code link failed: {e} with id: {paper_id}")
         # dump to json file
-        with open(filename,"w") as f:
-            json.dump(json_data,f)
+        with open(filename,"w", encoding='utf-8') as f:
+            json.dump(json_data,f, ensure_ascii=False)
 
 def update_json_file(filename,data_dict):
     '''
     daily update json file using data_dict
     '''
-    with open(filename,"r") as f:
+    with open(filename,"r", encoding='utf-8') as f:
         content = f.read()
         if not content:
             m = {}
@@ -273,8 +280,8 @@ def update_json_file(filename,data_dict):
             else:
                 json_data[keyword] = papers
 
-    with open(filename,"w") as f:
-        json.dump(json_data,f)
+    with open(filename,"w", encoding='utf-8') as f:
+        json.dump(json_data,f, ensure_ascii=False)
 
 def json_to_md(filename,md_filename,
                task = '',
@@ -306,7 +313,7 @@ def json_to_md(filename,md_filename,
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-','.')
 
-    with open(filename,"r") as f:
+    with open(filename,"r", encoding='utf-8') as f:
         content = f.read()
         if not content:
             data = {}
@@ -314,11 +321,11 @@ def json_to_md(filename,md_filename,
             data = json.loads(content)
 
     # clean README.md if daily already exist else create it
-    with open(md_filename,"w+") as f:
+    with open(md_filename,"w+", encoding='utf-8') as f:
         pass
 
     # write data into README.md
-    with open(md_filename,"a+") as f:
+    with open(md_filename,"a+", encoding='utf-8') as f:
 
         if (use_title == True) and (to_web == True):
             f.write("---\n" + "layout: default\n" + "---\n\n")
