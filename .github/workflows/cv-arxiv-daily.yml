@@ -15,8 +15,8 @@ on:
 
 env:
 
-  GITHUB_USER_NAME: chen37058
-  GITHUB_USER_EMAIL: chen37058@gmail.com
+  GITHUB_USER_NAME: serarcherryan
+  GITHUB_USER_EMAIL: yyzhu.ryan@gmail.com
   
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -43,7 +43,15 @@ jobs:
           pip install arxiv
           pip install requests
           pip install pyyaml
-          
+          pip install openai
+          pip install python-dotenv
+          pip install urllib3
+      - name: Export secrets to env
+        env:
+          DASHSCOPE_API_KEY: ${{ secrets.DASHSCOPE_API_KEY }}
+        run: |
+          echo "DASHSCOPE_API_KEY=$DASHSCOPE_API_KEY" >> $GITHUB_ENV
+                    
       - name: Run daily arxiv 
         run: |
           python daily_arxiv.py

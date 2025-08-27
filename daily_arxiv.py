@@ -8,6 +8,11 @@ import argparse
 import datetime
 import requests
 import time
+from pathlib import Path
+try:
+    from openai import OpenAI  # For qwen-long via DashScope compatible API
+except Exception:
+    OpenAI = None
 from requests.exceptions import SSLError, RequestException, ConnectionError, Timeout
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
@@ -51,6 +56,87 @@ def get_json_with_retries(url: str, timeout_seconds: int = 10):
             logging.warning(f"Request error on attempt {attempt} for {url}: {e}")
         time.sleep(0.5 * attempt)
     return None
+
+
+def ensure_dir(path: str) -> None:
+    if not os.path.isdir(path):
+        os.makedirs(path, exist_ok=True)
+
+
+def sanitize_filename(name: str) -> str:
+    return re.sub(r"[^A-Za-z0-9._-]", "_", name)
+
+
+def download_pdf_for_paper(paper_key: str, dest_dir: str = "papers") -> str | None:
+    """Download arXiv PDF for given paper key (e.g., 2508.17739) to dest_dir.
+    Returns local file path or None on failure.
+    """
+    ensure_dir(dest_dir)
+    pdf_url = f"https://arxiv.org/pdf/{paper_key}.pdf"
+    local_path = os.path.join(dest_dir, f"{sanitize_filename(paper_key)}.pdf")
+    try:
+        resp = session.get(pdf_url, timeout=20)
+        resp.raise_for_status()
+        with open(local_path, "wb") as f:
+            f.write(resp.content)
+        logging.info(f"Downloaded PDF for {paper_key} -> {local_path}")
+        return local_path
+    except Exception as e:
+        logging.warning(f"Failed to download PDF for {paper_key} from {pdf_url}: {e}")
+        return None
+
+
+def summarize_pdf_with_qwen_long(pdf_path: str) -> str | None:
+    """Summarize the PDF using qwen-long via DashScope-compatible OpenAI client.
+    Reads API key from DASHSCOPE_API_KEY if available. Returns response dict or None.
+    """
+    if OpenAI is None:
+        logging.warning("openai package not available; skipping summarization")
+        return None
+    api_key = os.getenv("DASHSCOPE_API_KEY")
+    if not api_key:
+        logging.warning("DASHSCOPE_API_KEY not set; skipping summarization")
+        return None
+    try:
+        client = OpenAI(api_key=api_key, base_url="https://dashscope.aliyuncs.com/compatible-mode/v1")
+        file_object = client.files.create(file=Path(pdf_path), purpose="file-extract")
+        completion = client.chat.completions.create(
+            model="qwen-long",
+            messages=[
+                {"role": "system", "content": f"fileid://{file_object.id}"},
+                {"role": "user", "content": "你是论文的作者，请用中文总结这篇论文的主要内容，并给出论文的结论。最终的输出格式为：'**论文主要内容**：[论文主要内容] <br><br> **论文结论**：[论文结论]'。你只需要填写[]里的内容，保留<br>，输出结果不要有任何换行行为。"},
+            ],
+        )
+        logging.info(f"Summarization complete for {pdf_path}")
+        # Extract text content robustly across return formats
+        try:
+            text = None
+            # Preferred: object with .choices
+            if hasattr(completion, "choices"):
+                try:
+                    text = completion.choices[0].message.get("content")
+                except Exception:
+                    text = None
+            # Fallback: JSON string via model_dump_json
+            if text is None and hasattr(completion, "model_dump_json"):
+                try:
+                    comp_json = json.loads(completion.model_dump_json())
+                    text = comp_json.get("choices", [{}])[0].get("message", {}).get("content")
+                except Exception as e :
+                    text = None
+            # Fallback: already a dict-like
+            if text is None and isinstance(completion, dict):
+                text = completion.get("choices", [{}])[0].get("message", {}).get("content")
+            if not text:
+                raise ValueError("empty content from completion")
+            logging.info(f"Summarization text extracted: {text}")
+            return text
+        except Exception as e:
+            logging.warning(f"Summarization failed for {pdf_path}: {e}")
+        return None
+    except Exception as e:
+        logging.warning(f"Summarization failed for {pdf_path}: {e}")
+        return None
 
 def load_config(config_file:str) -> dict:
     '''
@@ -153,8 +239,10 @@ def get_daily_papers(topic,query="slam", max_results=2):
             logging.info(f"Time = {publish_time} title = {paper_title} author = {paper_first_author}")
 
             # Only process papers published today
-            if publish_time != datetime.date.today():
-                continue
+            # if publish_time != datetime.date.today():
+            # FIXME
+            if publish_time != datetime.date.today() and publish_time != datetime.date(2025,8,25) and publish_time != datetime.date(2025,8,24):
+                break
 
             # eg: 2108.09112v1 -> 2108.09112
             ver_pos = paper_id.find('v')
@@ -165,6 +253,13 @@ def get_daily_papers(topic,query="slam", max_results=2):
             paper_url = arxiv_url + 'abs/' + paper_key
 
             try:
+                # 1) Download today's paper PDF
+                pdf_local_path = download_pdf_for_paper(paper_key)
+                # 2) Summarize with qwen-long if configured
+                summary_text = None
+                if pdf_local_path:
+                    summary_text = summarize_pdf_with_qwen_long(pdf_local_path)
+
                 # source code link
                 r = get_json_with_retries(code_url)
                 repo_url = None
@@ -176,14 +271,24 @@ def get_daily_papers(topic,query="slam", max_results=2):
                 #    if repo_url is None:
                 #        repo_url = get_code_link(paper_key)
                 if repo_url is not None:
-                    content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
-                           publish_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
+                    title_cell = paper_title
+                    if summary_text:
+                        title_cell = f"**{paper_title}**<br><br>{summary_text}"
+                    else:
+                        title_cell = f"**{paper_title}**"
+                    content[paper_key] = "|**{}**|{}|{} et.al.|[{}]({})|**[link]({})**|\n".format(
+                           publish_time,title_cell,paper_first_author,paper_key,paper_url,repo_url)
                     content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
                            publish_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
 
                 else:
-                    content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-                           publish_time,paper_title,paper_first_author,paper_key,paper_url)
+                    title_cell = paper_title
+                    if summary_text:
+                        title_cell = f"**{paper_title}**<br><br>{summary_text}"
+                    else:
+                        title_cell = f"**{paper_title}**"
+                    content[paper_key] = "|**{}**|{}|{} et.al.|[{}]({})|null|\n".format(
+                           publish_time,title_cell,paper_first_author,paper_key,paper_url)
                     content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
                            publish_time,paper_title,paper_first_author,paper_url,paper_url)
 

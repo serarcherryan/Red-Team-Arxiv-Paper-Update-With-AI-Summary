@@ -1,3 +1,5 @@
 requests
 arxiv
 pyyaml
+openai
+python-dotenv
