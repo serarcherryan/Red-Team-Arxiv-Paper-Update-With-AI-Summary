@@ -29,11 +29,16 @@
     ![](../assets/4-ga-7.png)
     ![](../assets/4-ga-8.png)
     ![](../assets/4-ga-9.png)
-4. 配置 GitHub Pages（可选）
+4. 配置千问模型访问凭据 DASHSCOPE_API_KEY
+    - 在仓库里，进入 Settings -> Secrets and variables -> Actions -> New repository secret
+    - 创建一个secret，名字叫做`DASHSCOPE_API_KEY`并且将value值设置为你的千问模型访问凭据
+    ![](../assets/4-1.png)
+    - 此时workflow就会将它导出到工作环境里
+5. 配置 GitHub Pages（可选）
     - Setting -> Pages -> Build and deployment。Source 选择 `Deploy from a branch`；Branch 选择 `main` 和 `/docs` 目录，然后保存。
     ![](../assets/5-pages-1.png)
     - 现在可以访问站点：`https://your_github_usrname.github.io/cv-arxiv-daily`
-5. 添加新关键词（可选）
+6. 添加新关键词（可选）
     - 在 [config.yaml](../config.yaml) 中编辑 `keywords`，可添加更多过滤条件或关键词。
     - 将修改推送至远程仓库并手动重新运行 GitHub Actions。
 
