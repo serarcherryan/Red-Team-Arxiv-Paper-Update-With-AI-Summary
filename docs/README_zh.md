@@ -1,13 +1,7 @@
 <p align="center">
-  <h1 align="center"><br><ins>CV-ARXIV-DAILY</ins><br>使用 GitHub Actions 每日自动更新计算机视觉论文</h1>
+  <h1 align="center"><br><ins>Red-Team-Arxiv-Paper-Update-With-AI-Summary</ins><br>使用 GitHub Actions 每日自动更新LLM越狱论文</h1>
  
 </p>
-
-
-
-##
-
-此仓库包含 cv-arxiv-daily 的源代码，用于每日抓取并更新 arXiv 论文的实用脚本。
 
 ## 概览
 
