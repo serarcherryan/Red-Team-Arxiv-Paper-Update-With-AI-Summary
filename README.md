@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 ## Updated on 2025.08.27
-> Usage instructions: [here](./docs/README.md#usage)，中文版使用说明：[点击这里](./docs/README_zh.md#usage)
+> Usage instructions: [here](./docs/README.md#usage)
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-25**|**Speculative Safety-Aware Decoding**|Xuekang Wang et.al.|[2508.17739](http://arxiv.org/abs/2508.17739)|null|
+|**2025-08-24**|**Activation Transport Operators**|Andrzej Szablewski et.al.|[2508.17540](http://arxiv.org/abs/2508.17540)|null|
 |**2025-07-23**|**Enabling Cyber Security Education through Digital Twins and Generative AI**|Vita Santa Barletta et.al.|[2507.17518](http://arxiv.org/abs/2507.17518)|null|
 |**2025-07-22**|**DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling**|Boheng Li et.al.|[2507.16329](http://arxiv.org/abs/2507.16329)|null|
 |**2025-07-21**|**Red-Team Multi-Agent Reinforcement Learning for Emergency Braking Scenario**|Yinsong Chen et.al.|[2507.15587](http://arxiv.org/abs/2507.15587)|null|
