@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 ## Updated on 2025.08.27
-> Usage instructions: [here](./docs/README.md#usage)，中文版使用说明：[点击这里](./docs/README_zh.md#usage)
+> Usage instructions: [here](./docs/README.md#usage)
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-25**|**Speculative Safety-Aware Decoding**<br><br>**论文主要内容**：[本文提出了一种轻量级且高效的解码时方法——推测性安全感知解码（SSD），以增强大型语言模型（LLMs）的安全对齐属性，无需调整模型参数。SSD利用一个小语言模型的安全特性，通过推测采样和匹配率动态切换解码方案，从而在保证实用性的同时提高安全性。实验表明，SSD不仅成功赋予了大型模型所需的安全属性，还保持了对良性查询的帮助性，并加速了推理时间。] <br><br> **论文结论**：[SSD能够有效地增强现有大型语言模型的安全对齐属性，同时保持模型的实用性和推理效率。实验结果显示，SSD在多种攻击场景下表现出色，尤其对于较不安全的模型如Vicuna，其性能优于直接微调原模型的方法。此外，SSD避免了过度拒绝响应的问题，能够在处理敏感话题时保持适当的回应能力。]|Xuekang Wang et.al.|[2508.17739](http://arxiv.org/abs/2508.17739)|null|
+|**2025-08-24**|**Activation Transport Operators**<br><br>**论文主要内容**：[本文提出了激活传输算子（ATO），即从上游到下游残差流层的线性映射，用于预测特定特征是否通过线性传输或非线性计算合成。ATO通过对配对激活的学习，无需微调且计算成本低，可以评估特征在残差流中的线性传输效率和对应的子空间大小，有助于提高模型安全性、调试和理解大语言模型中哪些部分的行为是线性的] <br><br> **论文结论**：[ATO提供了简单且可测试的方法来映射特征流，实验证明线性传输主要发生在相邻层之间，随着距离增加而减弱。运输效率指标量化了算子接近最佳线性预测的程度，分析表明线性传输子空间的维度与ATO的最佳秩紧密相关。ATO能够显著恢复在零干预下丢失的语言建模能力，支持其用于目标诊断和编辑]|Andrzej Szablewski et.al.|[2508.17540](http://arxiv.org/abs/2508.17540)|null|
 |**2025-07-23**|**Enabling Cyber Security Education through Digital Twins and Generative AI**|Vita Santa Barletta et.al.|[2507.17518](http://arxiv.org/abs/2507.17518)|null|
 |**2025-07-22**|**DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling**|Boheng Li et.al.|[2507.16329](http://arxiv.org/abs/2507.16329)|null|
 |**2025-07-21**|**Red-Team Multi-Agent Reinforcement Learning for Emergency Braking Scenario**|Yinsong Chen et.al.|[2507.15587](http://arxiv.org/abs/2507.15587)|null|
