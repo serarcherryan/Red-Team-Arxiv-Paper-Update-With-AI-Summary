@@ -239,9 +239,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
             logging.info(f"Time = {publish_time} title = {paper_title} author = {paper_first_author}")
 
             # Only process papers published today
-            # if publish_time != datetime.date.today():
-            # FIXME
-            if publish_time != datetime.date.today() and publish_time != datetime.date(2025,8,25) and publish_time != datetime.date(2025,8,24):
+            if publish_time != datetime.date.today():
                 break
 
             # eg: 2108.09112v1 -> 2108.09112
