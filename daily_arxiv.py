@@ -7,6 +7,10 @@ import logging
 import argparse
 import datetime
 import requests
+import time
+from requests.exceptions import SSLError, RequestException, ConnectionError, Timeout
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
@@ -15,6 +19,38 @@ logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
 arxiv_url = "http://arxiv.org/"
+
+# Create a shared requests Session with retries for robustness
+session = requests.Session()
+retry_strategy = Retry(
+    total=3,
+    backoff_factor=0.5,
+    status_forcelist=[429, 500, 502, 503, 504],
+    allowed_methods=["GET"],
+)
+adapter = HTTPAdapter(max_retries=retry_strategy)
+session.mount("https://", adapter)
+session.mount("http://", adapter)
+
+
+def get_json_with_retries(url: str, timeout_seconds: int = 10):
+    """Fetch JSON with retries and graceful handling of SSL errors.
+
+    Returns parsed JSON dict on success, or None on failure.
+    """
+    for attempt in range(1, 4):
+        try:
+            resp = session.get(url, timeout=timeout_seconds)
+            resp.raise_for_status()
+            return resp.json()
+        except SSLError as e:
+            logging.warning(f"SSL error on attempt {attempt} for {url}: {e}")
+        except (ConnectionError, Timeout) as e:
+            logging.warning(f"Connection/timeout on attempt {attempt} for {url}: {e}")
+        except RequestException as e:
+            logging.warning(f"Request error on attempt {attempt} for {url}: {e}")
+        time.sleep(0.5 * attempt)
+    return None
 
 def load_config(config_file:str) -> dict:
     '''
@@ -125,9 +161,9 @@ def get_daily_papers(topic,query="slam", max_results=2):
 
         try:
             # source code link
-            r = requests.get(code_url).json()
+            r = get_json_with_retries(code_url)
             repo_url = None
-            if "official" in r and r["official"]:
+            if r and "official" in r and r["official"]:
                 repo_url = r["official"]["url"]
             # TODO: not found, two more chances
             # else:
@@ -154,7 +190,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
                 content_to_web[paper_key] += f"\n"
 
         except Exception as e:
-            logging.error(f"exception: {e} with id: {paper_key}")
+            logging.warning(f"Fetch code link failed: {e} with id: {paper_key}")
 
     data = {topic:content}
     data_web = {topic:content_to_web}
@@ -198,18 +234,18 @@ def update_paper_links(filename):
                 if valid_link:
                     continue
                 try:
-                    code_url = base_url + paper_id #TODO
-                    r = requests.get(code_url).json()
+                    code_url = base_url + paper_id  # TODO
+                    r = get_json_with_retries(code_url)
                     repo_url = None
-                    if "official" in r and r["official"]:
+                    if r and "official" in r and r["official"]:
                         repo_url = r["official"]["url"]
                         if repo_url is not None:
-                            new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
+                            new_cont = contents.replace('|null|', f'|**[link]({repo_url})**|')
                             logging.info(f'ID = {paper_id}, contents = {new_cont}')
                             json_data[keywords][paper_id] = str(new_cont)
 
                 except Exception as e:
-                    logging.error(f"exception: {e} with id: {paper_id}")
+                    logging.warning(f"Update code link failed: {e} with id: {paper_id}")
         # dump to json file
         with open(filename,"w") as f:
             json.dump(json_data,f)
