@@ -14,8 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-08-25**|**Speculative Safety-Aware Decoding**|Xuekang Wang et.al.|[2508.17739](http://arxiv.org/abs/2508.17739)|null|
-|**2025-08-24**|**Activation Transport Operators**|Andrzej Szablewski et.al.|[2508.17540](http://arxiv.org/abs/2508.17540)|null|
+|**2025-08-25**|**Speculative Safety-Aware Decoding**<br><br>**论文主要内容**：[本文提出了一种轻量级且高效的解码时方法——投机性安全感知解码（SSD），用于增强大型语言模型（LLMs）的安全对齐属性。SSD利用一个小规模的语言模型来指导大型模型生成更安全的响应，通过计算专家模型和复合模型之间的匹配率来量化越狱攻击的风险，并动态切换解码方案以平衡效用和安全性。具体来说，对于良性查询，SSD创建一个由原始模型和专家模型共同选择的令牌交集作为样本空间；而对于有害查询，则采用令牌并集来加强安全性。实验结果显示，SSD不仅提高了模型的安全性能，还保持了对良性查询的帮助性，同时加速了推理时间。] <br><br> **论文结论**：[SSD成功地将所需的深度安全对齐属性转移到大型语言模型上，在不牺牲模型效用的情况下增强了安全性。此外，对于较不安全的模型如Vicuna，SSD比直接微调原模型具有更好的安全对齐性能。SSD还展示了对其他类型的越狱攻击的有效防御能力，避免了对边缘查询的过度拒绝响应，从而在复杂的实际应用中表现出色。]|Xuekang Wang et.al.|[2508.17739](http://arxiv.org/abs/2508.17739)|null|
+|**2025-08-24**|**Activation Transport Operators**<br><br>**论文主要内容**：[本文提出了激活传输算子（Activation Transport Operators, ATO），用于预测从上游残差向量到下游残差向量的线性映射。通过ATO，可以判断特征是通过线性传输还是由非线性计算合成的。研究还引入了传输效率的概念，以量化传输算子接近最优线性预测的程度，并估计了残差流中线性传输子空间的维度。实验表明，线性传输主要发生在相邻层之间，随着层间距离增加，传输效率下降，且后期层更倾向于合成或重组特征。] <br><br> **论文结论**：[ATO提供了一种简单、可测试的方法来映射特征流，能够帮助理解残差流中的线性传输机制。线性传输在早期层中更为普遍，而后期层则更多地进行特征合成和重组。传输效率度量和线性传输子空间的维度分析为优化ATO的秩选择提供了指导。未来工作将探索更复杂的传输策略，并尝试在推理时使用ATO进行低计算量的特征编辑。]|Andrzej Szablewski et.al.|[2508.17540](http://arxiv.org/abs/2508.17540)|null|
 |**2025-07-23**|**Enabling Cyber Security Education through Digital Twins and Generative AI**|Vita Santa Barletta et.al.|[2507.17518](http://arxiv.org/abs/2507.17518)|null|
 |**2025-07-22**|**DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling**|Boheng Li et.al.|[2507.16329](http://arxiv.org/abs/2507.16329)|null|
 |**2025-07-21**|**Red-Team Multi-Agent Reinforcement Learning for Emergency Braking Scenario**|Yinsong Chen et.al.|[2507.15587](http://arxiv.org/abs/2507.15587)|null|
