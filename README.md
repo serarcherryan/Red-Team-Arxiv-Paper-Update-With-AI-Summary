@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 ## Updated on 2025.08.27
-> Usage instructions: [here](./docs/README.md#usage)
+> Usage instructions: [here](./docs/README.md#usage)，中文版使用说明：[点击这里](./docs/README_zh.md#usage)
 
 <details>
   <summary>Table of Contents</summary>
